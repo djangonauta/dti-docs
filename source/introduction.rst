@@ -16,4 +16,4 @@ referentes aos Comitês de Acompanhamento de Egressos (CGIPES), egressos por cur
 cursos para egressos, eventos, vagas de intercâmbio e participação em órgãos colegiados), além de fornecer uma
 administrativa para inserção e consulta dessas informações.
 
-A seguir vamos descrever o que são CGIPES e como gerenciá-los a partir do módulo Portal de Egressos.
+A seguir vamos descrever como o gerenciamento de CGIPES pode ser feito utilizando as funcionalidades do portal.
