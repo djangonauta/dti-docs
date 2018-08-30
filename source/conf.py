@@ -20,8 +20,8 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Portal do Egresso'
-copyright = '2018, DTI IFPA'
-author = 'DTI IFPA'
+copyright = '2018, Diretoria de Tecnologia da Informação, IFPA'
+author = 'Diretoria de Tecnologia da Informação, IFPA'
 
 # The short X.Y version
 version = ''
@@ -128,8 +128,8 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'PortaldoEgresso.tex', 'Portal do Egresso Documentation',
-     'DTI IFPA', 'manual'),
+    (master_doc, 'PortaldoEgresso.tex', 'Documentação do Portal do Egresso',
+     'Diretoria de Tecnologia da Informação, IFPA', 'manual'),
 ]
 
 
@@ -138,7 +138,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'portaldoegresso', 'Portal do Egresso Documentation',
+    (master_doc, 'portaldoegresso', 'Documentação do Portal do Egresso',
      [author], 1)
 ]
 
@@ -149,7 +149,7 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'PortaldoEgresso', 'Portal do Egresso Documentation',
-     author, 'PortaldoEgresso', 'One line description of project.',
+    (master_doc, 'PortaldoEgresso', 'Documentação do Portal do Egresso',
+     author, 'PortaldoEgresso', 'Porta do Egresso.',
      'Miscellaneous'),
 ]

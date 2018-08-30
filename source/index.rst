@@ -13,7 +13,7 @@ Conteúdo
 --------
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 4
 
    Introdução <introduction>
    CGIPES <cgipes>
