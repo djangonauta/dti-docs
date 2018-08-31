@@ -128,3 +128,7 @@ partir da listagem de membros.
 
 O sistema exibe uma mensagem de confirmação antes de desligar o membro daquele CGIPES. Após ser removido, um
 membro pode ser incluído em outro CGIPES, se for o caso.
+
+.. raw:: latex
+
+    \newpage
