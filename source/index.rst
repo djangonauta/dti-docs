@@ -7,10 +7,10 @@ Documentação do Portal do Egresso
 =================================
 
 Bem vindo a documentação oficial do Portal do Egresso. Nesta documentação, vamos descrever esse módulo do
-SIGAA e como utilizá-lo.
+SIGAA e como utilizá-lo. Para fazer o *download* da documentação oficial, :download:`clique aqui <../build/latex/PortaldoEgresso.pdf>`.
 
-Conteúdo
---------
+Documentação
+------------
 
 .. toctree::
    :maxdepth: 4
