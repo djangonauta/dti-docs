@@ -1,3 +1,5 @@
+.. _cgipes:
+
 CGIPES
 ======
 
@@ -17,7 +19,7 @@ Para acessar a página de gerenciamento de CGIPES, basta passar o mouse sobre o 
 
 .. image:: _static/img/gerenciar_cgipes.png
 
-Em seguida o sistema carrega uma página contendo a listagem de todos os CGIPES cadastrados, junto com as opções para
+Em seguida o sistema carrega uma página contendo a listagem de todos os CGIPES cadastrados, junto com os botões de controle
 *Cadastrar*, *Gerenciar membros*, *Alterar* e *Remover CGIPES*:
 
 .. image:: _static/img/comites.png
@@ -61,8 +63,8 @@ antes do sistema efetivamente apagar o CGIPES. Um CGIPES não pode ser removido 
 
 .. image:: _static/img/remover.png
 
-Gerenciamento de Membros
-~~~~~~~~~~~~~~~~~~~~~~~~
+Gerenciamento de Membros do CGIPES
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Para acessar a página de gerencimento de membros, basta clicar no botão *Gerenciar Membros* do respectivo CGIPES.
 
@@ -73,11 +75,13 @@ e outra contendo a listagem de membros para aquele CGIPES.
 
 .. image:: _static/img/membros_form.png
 
-Cadastro de Novo Membro
-***********************
+.. _cadastro_novo_membro_cgipes:
+
+Cadastro de Novo Membro do CGIPES
+*********************************
 
 Todos os campos marcados com ``*`` são obrigatórios. O campo *Membro* é do tipo *autocompletar*. O usuário digita
-alguns caracteres (pelo menos 3) e o sistema busca por membros cujo nome corresponda a texto inserido. Em seguida o usuário
+alguns caracteres (pelo menos 3) e o sistema busca por registros cujo nome corresponda a texto inserido. Em seguida o usuário
 clica em um dos registros apresentados na lista de resultados para selecioná-lo.
 
 .. image:: _static/img/auto_completar.png
@@ -104,8 +108,8 @@ Ao clicar no botão *Voltar*, o sistema redireciona para a página de listagem d
 Após a inserção dos dados corretamente, o usuário clica no botão *Salvar* e um novo membro é incluído na listagem
 de membros daquele CGIPES.
 
-Editar Membro
-*************
+Editar Membro do CGIPES
+***********************
 
 Para editar um membro, o usuário clica no botão *Alterar Membro*, do respectivo membro que se quer editar, a partir
 da seção que contém a listagem de membros para aquele CGIPES.
@@ -118,8 +122,8 @@ de ser selecionado. O usuário então pode editar os campos do formulário segui
 estiverem com os formatos corretos, o sistema atualiza o membro e atualiza listagem de membros daquele CGIPES (agora
 contendo os dados atualizados do membro que acabou de ser editado).
 
-Remover Membro
-**************
+Remover Membro do CGIPES
+************************
 
 Para remover um membro, o usuário clica no botão *Remover Membro* do respectivo membro que se quer remover, a
 partir da listagem de membros.

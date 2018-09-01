@@ -18,3 +18,4 @@ Documentação
    Introdução <introdução>
    CGIPES <cgipes>
    Oportunidades <oportunidades>
+   Vagas de Emprego <vagas_emprego>
