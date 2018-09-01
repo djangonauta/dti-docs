@@ -40,7 +40,7 @@ Esse filtro também está disponível nos dois tipos de murais:
 
 Os murais listam oportunidades em painéis com cabeçalhos em coloração diferente e com informações essenciais
 para otimizar a experiência do usuário. Caso o usuário queira visualizar os detalhes de uma dada oportunidade,
-ele pode clicar no link *Mais detalhes*. O sistema então para rediciona para a página de detalhes da oportunidade,
+ele pode clicar no link *Mais detalhes*. O sistema então para redireciona para a página de detalhes da oportunidade,
 como mostra a imagem a seguir:
 
 .. image:: _static/img/oportunidade_detalhes.png

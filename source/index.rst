@@ -1,21 +1,16 @@
-.. Portal do Egresso documentation master file, created by
-   sphinx-quickstart on Tue Aug 28 10:59:41 2018.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
 Documentação do Portal do Egresso
 =================================
 
 Bem vindo a documentação oficial do Portal do Egresso. Nesta documentação, vamos descrever esse módulo do
 SIGAA e como utilizá-lo. O *download* desta documentação no formato PDF pode ser feito :download:`clicando aqui <../build/latex/PortaldoEgresso.pdf>`.
 
-Documentação
-------------
+Portal do Egresso
+-----------------
 
 .. toctree::
    :maxdepth: 4
 
-   Introdução <introdução>
+   Introdução <introducao>
    CGIPES <cgipes>
    Oportunidades <oportunidades>
    Vagas de Emprego <vagas_emprego>

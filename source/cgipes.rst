@@ -116,9 +116,9 @@ da seção que contém a listagem de membros para aquele CGIPES.
 
 .. image:: _static/img/alterar_membro.png
 
-O sistema então carrega o formulário de `Cadastro de Novo Membro`_ preenchido com os dados do membro que acabou
+O sistema então carrega o formulário de `cadastro_novo_membro_cgipes`_ preenchido com os dados do membro que acabou
 de ser selecionado. O usuário então pode editar os campos do formulário seguindo as mesmas recomendações descritas em
-`Cadastro de Novo Membro`_. Após alterar os dados do membro, o usuário clica no botão *Atualizar*. Se os dados inseridos
+`cadastro_novo_membro_cgipes`_. Após alterar os dados do membro, o usuário clica no botão *Atualizar*. Se os dados inseridos
 estiverem com os formatos corretos, o sistema atualiza o membro e atualiza listagem de membros daquele CGIPES (agora
 contendo os dados atualizados do membro que acabou de ser editado).
 
@@ -132,6 +132,31 @@ partir da listagem de membros.
 
 O sistema exibe uma mensagem de confirmação antes de desligar o membro daquele CGIPES. Após ser removido, um
 membro pode ser incluído em outro CGIPES, se for o caso.
+
+Visualizar CGIPES
+-----------------
+
+Os CGIPES cadastrados podem ser visualizados em dois locais específicos. O primeiro local é a partir do portal
+do egresso, bastando o usuário passar o mouse sobre o menu CGIPES e selecionar o submenu *Consultar CGIPES*
+como mostra a imagem a seguir:
+
+.. image:: _static/img/consultar_cgipes.png
+
+Por padrão o sistema carrega o CGIPES referente a unidade do usuário logado no SIGAA, selecionando automaticamente
+a unidade do usuário no filtro *Parâmetros de Busca* (veja a imagem a seguir). Caso não haja um CGIPES relacionado com
+a unidade do usuário, o sistema deixa em branco o filtro *Parâmetros de Busca*, o que efetivamente carrega
+a lista de todos os CGIPES cadastrados:
+
+.. image:: _static/img/cgipes_lista.png
+
+A listagem dos CGIPES cadastrados também está disponível na
+`área pública do SIGAA <https://sigaa.ifpa.edu.br/sigaa/public/>`_. Para acessar a lista de CGIPES cadastrados,
+o usuário deverá clicar na aba lateral *Egressos* e em seguida no *banner* *CGIPES*, como mostra a imagem a seguir:
+
+.. image:: _static/img/cgipes_publico.png
+
+A listagem de CGIPES na `área pública do SIGAA <https://sigaa.ifpa.edu.br/sigaa/public/>`_ funciona de forma
+idêntica a listagem disponível a partir do portal do egresso (descrita anteriormente).
 
 .. raw:: latex
 

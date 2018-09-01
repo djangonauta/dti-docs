@@ -33,11 +33,11 @@ se os **detalhes** da mesma podem ser visualizados na área pública do SIGAA. P
 de oportunidades, acessa a seção :ref:`visualizar_oportunidades`.
 
 Os campos *link*, *telefone* e *email*, da seção *Mais Informações* não são requeridos entre si,
-*mas um deles precisa ser informado*. Caso o usuário deixe os três campos em branco, o sistema exibe uma
+**mas um deles precisa ser informado**. Caso o usuário deixe os três campos em branco, o sistema exibe uma
 mensagem de erro, conforme imagem a seguir:
 
 .. image:: _static/img/form_erro_informacoes.png
 
 Após preencher corretamente todos os campos requeridos, o usuário clicar no botão *Cadastrar* para cadastrar
-uma nova vaga de emprego. Se não houverem erros, o sistema salva uma nova vaga de emprego e redireciona
+uma nova vaga de emprego. Se não houverem erros, o sistema salva a nova vaga de emprego e redireciona
 para a página de listagem de vagas descrita anteriormente.
