@@ -51,7 +51,7 @@ Para iniciar o processo de edição, o usuário deve clicar no botão *alterar* 
 Após o CGIPES ser selecionado, o sistema carrega a página contendo o formulário de novo CGIPES com os campos
 preenchidos. O usuário altera os dados a seu critério e em seguida clicar no botão *Atualizar*. Se os campos
 estivem com os formatos corretos, o sistema atualiza o CGIPES e redireciona para a página contendo a listagem de todos os CGIPES e ações.
-Os botões *voltar* e *cancelar* funcionam de forma idêntica ao do formulário de `Cadastrar Novo CGIPES`_.
+Os botões *voltar* e *cancelar* funcionam de forma idêntica ao do formulário da seção `Cadastrar Novo CGIPES`_.
 
 .. image:: _static/img/atualizar_cgipes.png
 
@@ -116,10 +116,10 @@ da seção que contém a listagem de membros para aquele CGIPES.
 
 .. image:: _static/img/alterar_membro.png
 
-O sistema então carrega o formulário de `cadastro_novo_membro_cgipes`_ preenchido com os dados do membro que acabou
-de ser selecionado. O usuário então pode editar os campos do formulário seguindo as mesmas recomendações descritas em
-`cadastro_novo_membro_cgipes`_. Após alterar os dados do membro, o usuário clica no botão *Atualizar*. Se os dados inseridos
-estiverem com os formatos corretos, o sistema atualiza o membro e atualiza listagem de membros daquele CGIPES (agora
+O sistema então carrega o formulário de cadastro preenchido com os dados do membro que acabou
+de ser selecionado. O usuário então pode editar os campos do formulário seguindo as mesmas recomendações descritas na seção
+`Cadastro de Novo Membro do CGIPES`_. Após alterar os dados do membro, o usuário clica no botão *Atualizar*. Se os dados inseridos
+estiverem com os formatos corretos, o sistema atualiza o membro e atualiza a listagem de membros daquele CGIPES (agora
 contendo os dados atualizados do membro que acabou de ser editado).
 
 Remover Membro do CGIPES
@@ -156,7 +156,7 @@ o usuário deverá clicar na aba lateral *Egressos* e em seguida no *banner* *CG
 .. image:: _static/img/cgipes_publico.png
 
 A listagem de CGIPES na `área pública do SIGAA <https://sigaa.ifpa.edu.br/sigaa/public/>`_ funciona de forma
-idêntica a listagem disponível a partir do portal do egresso (descrita anteriormente).
+idêntica a listagem disponível no portal do egresso (descrita anteriormente).
 
 .. raw:: latex
 
