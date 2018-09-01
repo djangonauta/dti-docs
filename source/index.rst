@@ -15,6 +15,6 @@ Documentação
 .. toctree::
    :maxdepth: 4
 
-   Introdução <introduction>
+   Introdução <introdução>
    CGIPES <cgipes>
-   Oportunidades <opportunities>
+   Oportunidades <oportunidades>
