@@ -28,9 +28,9 @@ foram descritos na seção :ref:`cadastro_novo_membro_cgipes`.
 
 .. image:: _static/img/form_nova_vaga_emprego.png
 
-O campo *Disponível na Área Pública* marca a vaga de emprego a ser cadastrada como pública. Isso significa que
-os **detalhes** da mesma podem ser visualizados na área pública do SIGAA. Mais detalhes sobre essa visualização
-serão descritos a seguir.
+O campo *Disponível na Área Pública* marca a vaga de emprego a ser cadastrada como pública. Esse campo define
+se os **detalhes** da mesma podem ser visualizados na área pública do SIGAA. Para mais detalhes sobre visualização
+de oportunidades, acessa a seção :ref:`visualizar_oportunidades`.
 
 Os campos *link*, *telefone* e *email*, da seção *Mais Informações* não são requeridos entre si,
 *mas um deles precisa ser informado*. Caso o usuário deixe os três campos em branco, o sistema exibe uma
@@ -40,4 +40,4 @@ mensagem de erro, conforme imagem a seguir:
 
 Após preencher corretamente todos os campos requeridos, o usuário clicar no botão *Cadastrar* para cadastrar
 uma nova vaga de emprego. Se não houverem erros, o sistema salva uma nova vaga de emprego e redireciona
-para a página de listagem de vagas.
+para a página de listagem de vagas descrita anteriormente.

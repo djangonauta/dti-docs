@@ -1,4 +1,4 @@
-.. _oportunidade:
+.. _oportunidades:
 
 Oportunidades
 =============
@@ -40,13 +40,17 @@ Esse filtro também está disponível nos dois tipos de murais:
 
 Os murais listam oportunidades em painéis com cabeçalhos em coloração diferente e com informações essenciais
 para otimizar a experiência do usuário. Caso o usuário queira visualizar os detalhes de uma dada oportunidade,
-ele pode clicar no link *Mais detalhes*.
+ele pode clicar no link *Mais detalhes*. O sistema então para rediciona para a página de detalhes da oportunidade,
+como mostra a imagem a seguir:
 
 .. image:: _static/img/oportunidade_detalhes.png
 
 O mural de oportunidades públicas é idêntico ao mural do portal do egresso para usuário logados, mas com uma
 diferença: caso uma oportunidade não tenha sida cadastrada como pública,
-*não é possível visualizar detalhes dessa oportunidade na área pública*.
+*não é possível visualizar detalhes dessa oportunidade na área pública*. O sistema exibe uma mensagem sugerindo
+que o usuário faça login e visualize a oportunidade a partir do portal do egresso:
+
+.. image:: _static/img/oportunidade_nao_publica.png
 
 .. raw:: latex
 
