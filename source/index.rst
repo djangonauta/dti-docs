@@ -14,3 +14,4 @@ Portal do Egresso
    CGIPES <cgipes>
    Oportunidades <oportunidades>
    Vagas de Emprego <vagas_emprego>
+   Eventos <eventos>
