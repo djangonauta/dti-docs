@@ -1,7 +1,7 @@
 Eventos
 =======
 
-Eventos podem ser cadastradas por gestores do portal do egresso e *por membros dos CGIPES*. Após
+Eventos podem ser gerenciados por gestores do portal do egresso e *por membros dos CGIPES*. Após
 fazer login no SIGAA e acessar o portal do egresso (como mostrado na seção :ref:`cgipes`), o usuário pode
 passar o mouse sobre o menu *Oportunidades* e clicar no submenu *Gerenciar Eventos*, como mostra
 a figura a seguir:

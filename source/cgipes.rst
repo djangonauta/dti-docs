@@ -3,7 +3,7 @@
 CGIPES
 ======
 
-Os CGIPES (*Comitês de Acompanhamento de Egressos*) são cadastrados em cada *Campi* por usuários do SIGAA com
+Os CGIPES (*Comitês de Acompanhamento de Egressos*) são gerenciados em cada *Campi* por usuários do SIGAA com
 perfil de GESTOR_EGRESSOS.
 
 O módulo Portal do Egresso pode ser acessado clicando no respectivo botão de acesso no SIGAA (após fazer login),
@@ -36,7 +36,9 @@ Ao clicar no link *Cadastrar*, o sistema carrega o formulário de criação de n
 Todos os campos são requeridos e auto-explicativos. Após preencher todos os campos corretamente, o usuário clica
 no botão *cadastrar* para criar um novo
 CGIPES. Se o registro for inserido corretamente, o sistema redireciona para a página contendo a listagem de todos os CGIPES e 
-ações. Também é possível clicar no botão *voltar*, para retornar para a página de listagem, ou *cancelar*, para
+ações.
+
+Também é possível clicar no botão *voltar*, para retornar para a página de listagem, ou *cancelar*, para
 retornar a página inicial do portal do egresso. Lembrando que quaisquer dados não salvos são perdidos caso os botões
 *voltar* e *cancelar* sejam clicados (o botão cancelar exibe uma mensagem de notificação antes de retornar para
 página inicial do portal do egresso).

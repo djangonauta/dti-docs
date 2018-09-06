@@ -1,7 +1,7 @@
 Vagas de Emprego
 ================
 
-Vagas de emprego podem ser cadastradas por gestores do portal do egresso e *por membros dos CGIPES*. Após
+Vagas de emprego podem ser gerenciadas por gestores do portal do egresso e *por membros dos CGIPES*. Após
 fazer login no SIGAA e acessar o portal do egresso (como mostrado na seção :ref:`cgipes`), o usuário pode
 passar o mouse sobre o menu *Oportunidades* e clicar no submenu *Gerenciar Vagas de Emprego*, como mostra
 a figura a seguir:

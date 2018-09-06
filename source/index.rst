@@ -13,6 +13,7 @@ Portal do Egresso
    Introdução <introducao>
    CGIPES <cgipes>
    Oportunidades <oportunidades>
+   Instituições <instituicoes>
    Vagas de Emprego <vagas_emprego>
    Eventos <eventos>
    Cursos <cursos>
