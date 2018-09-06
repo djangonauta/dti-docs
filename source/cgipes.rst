@@ -53,7 +53,7 @@ preenchidos. O usuário altera os dados a seu critério e em seguida clicar no b
 estivem com os formatos corretos, o sistema atualiza o CGIPES e redireciona para a página contendo a listagem de todos os CGIPES e ações.
 Os botões *voltar* e *cancelar* funcionam de forma idêntica ao do formulário da seção `Cadastrar Novo CGIPES`_.
 
-.. image:: _static/img/atualizar_cgipes.png
+.. image:: _static/img/atualizar_cgipes_form.png
 
 Deletar CGIPES
 ~~~~~~~~~~~~~~
@@ -66,12 +66,12 @@ antes do sistema efetivamente apagar o CGIPES. Um CGIPES não pode ser removido 
 Gerenciamento de Membros do CGIPES
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Para acessar a página de gerencimento de membros, basta clicar no botão *Gerenciar Membros* do respectivo CGIPES.
+Para acessar a página de gerenciamento de membros, basta clicar no botão *Gerenciar Membros* do respectivo CGIPES.
 
 .. image:: _static/img/membros.png
 
 A página consiste em duas seções, uma contendo o formulário de inclusão de um novo Membro para um determinado CGIPES
-e outra contendo a listagem de membros para aquele CGIPES.
+e outra, abaixo, contendo a listagem de membros para aquele CGIPES:
 
 .. image:: _static/img/membros_form.png
 
