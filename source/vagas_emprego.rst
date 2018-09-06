@@ -61,7 +61,7 @@ Remover Vaga de Emprego
 -----------------------
 
 Para remover uma vaga de emprego, deve-se clicar no botão *Remover* da respectiva vaga de emprego na página de listagem.
-Uma mensagem de confirmação é exibida ao usuário antes do sistema efetivamente apagar a vaga de emprego. Uma vaga de emprego não pode
+Uma mensagem de confirmação é exibida ao usuário antes do sistema efetivamente remover a vaga de emprego. Uma vaga de emprego não pode
 ser removida se possuir cargos cadastrados.
 
 .. image:: _static/img/vagas_emprego/remover_vaga_emprego.png

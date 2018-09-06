@@ -61,7 +61,7 @@ Remover CGIPES
 ~~~~~~~~~~~~~~
 
 Para remover um CGIPES, deve-se clicar no botão *Remover* do respectivo CGIPES na página de listagem. Uma mensagem de confirmação é exibida ao usuário
-antes do sistema efetivamente apagar o CGIPES. Um CGIPES não pode ser removido se possuir membros vinculados.
+antes do sistema efetivamente remover o CGIPES. Um CGIPES não pode ser removido se possuir membros vinculados.
 
 .. image:: _static/img/cgipes/remover.png
 

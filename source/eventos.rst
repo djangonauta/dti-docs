@@ -71,6 +71,6 @@ Remover Evento
 --------------
 
 Para remover um evento, deve-se clicar no botão *Remover* do respectivo evento na página de listagem.
-Uma mensagem de confirmação é exibida ao usuário antes do sistema efetivamente apagar o evento.
+Uma mensagem de confirmação é exibida ao usuário antes do sistema efetivamente remover o evento.
 
 .. image:: _static/img/eventos/remover_evento.png
