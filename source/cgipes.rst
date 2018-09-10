@@ -3,7 +3,7 @@
 CGIPES
 ======
 
-Os CGIPES (*Comitês de Acompanhamento de Egressos*) são gerenciados em cada *Campi* por usuários do SIGAA com
+Os CGIPES (*Comitês de Acompanhamento de Egressos*) são gerenciados em cada *Campus* por usuários do SIGAA com
 perfil de GESTOR_EGRESSOS.
 
 O módulo Portal do Egresso pode ser acessado clicando no respectivo botão de acesso no SIGAA (após fazer login),
@@ -14,7 +14,7 @@ conforme mostra a figura a seguir:
 Gerenciar CGIPES
 ----------------
 
-Para acessar a página de gerenciamento de CGIPES, basta passar o mouse sobre o menu *CGIPES* e selecionar o sub-menu
+Para acessar a página de gerenciamento de CGIPES, basta passar o mouse sobre o menu *CGIPES* e selecionar o submenu
 *Gerenciar CGIPES* como mostra a imagem a seguir:
 
 .. image:: _static/img/cgipes/gerenciar_cgipes.png
