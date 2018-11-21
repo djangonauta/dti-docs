@@ -2,7 +2,7 @@ Cursos
 ------
 
 Cursos podem ser gerenciados por gestores do portal do egresso e *por membros dos CGIPES*. Após
-fazer login no SIGAA e acessar o portal do egresso (como mostrado na seção `CGIPES`), o usuário pode
+fazer login no SIGAA e acessar o portal do egresso (como mostrado na seção `CGIPES`_), o usuário pode
 passar o mouse sobre o menu *Oportunidades* e clicar no submenu *Gerenciar Cursos*, como mostra
 a figura a seguir:
 
