@@ -2,7 +2,7 @@ Eventos
 -------
 
 Eventos podem ser gerenciados por gestores do portal do egresso e *por membros dos CGIPES*. Após
-fazer login no SIGAA e acessar o portal do egresso (como mostrado na seção :ref:`cgipes`), o usuário pode
+fazer login no SIGAA e acessar o portal do egresso (como mostrado na seção `CGIPES`_), o usuário pode
 passar o mouse sobre o menu *Oportunidades* e clicar no submenu *Gerenciar Eventos*, como mostra
 a figura a seguir:
 
@@ -24,14 +24,14 @@ mostra a imagem a seguir:
 Em seguida o sistema carrega o formulário de criação de novo evento. Os campos marcados com ``*``
 são obrigatórios. Os campos *Periodo de Inscrição (inicial e final)* são do tipo *data*
 e os campos *Promotora* e *Município* são do tipo *autocompletar*. Esses dois tipo de campos
-foram descritos na seção :ref:`cadastro_novo_membro_cgipes`. O campo *Áreas do CNPQ* foi descrito na seção
-:ref:`cadastro_novo_cargo`.
+foram descritos na seção `Cadastro de Novo Membro do CGIPES`_. O campo *Áreas do CNPQ* foi descrito na seção
+`Cadastro de Novo Cargo`_.
 
 .. image:: /_static/img/portal-egressos/eventos/form_novo_evento.png
 
 O campo *Disponível na Área Pública* marca o evento a ser cadastrado como público. Esse campo define
 se os **detalhes** do mesmo podem ser visualizados na área pública do SIGAA. Para mais detalhes sobre visualização
-de oportunidades, acesse a seção :ref:`visualizar_oportunidades`.
+de oportunidades, acesse a seção `Visualizar Oportunidades`_.
 
 O campo *Abrangência* contém as opções relacionadas com a abrangência do evento. Caso seja selecionada opção
 *Internacional*, o campo *Município* (que é do tipo *autocompletar*) transforma-se no campo *Município Internacional*
@@ -65,7 +65,7 @@ O usuário altera os dados a seu critério e em seguida clicar no botão *Atuali
 estivem com os formatos corretos, o sistema atualiza o evento e redireciona para a página contendo a listagem de
 todos os eventos e ações.
 
-Os botões *voltar* e *cancelar* funcionam de forma idêntica ao do formulário da seção :ref:`cadastrar_novo_cgipes`.
+Os botões *voltar* e *cancelar* funcionam de forma idêntica ao do formulário da seção `Cadastrar Novo CGIPES`_.
 
 Remover Evento
 ^^^^^^^^^^^^^^

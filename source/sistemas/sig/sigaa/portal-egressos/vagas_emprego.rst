@@ -2,7 +2,7 @@ Vagas de Emprego
 ----------------
 
 Vagas de emprego podem ser gerenciadas por gestores do portal do egresso e *por membros dos CGIPES*. Após
-fazer login no SIGAA e acessar o portal do egresso (como mostrado na seção :ref:`cgipes`), o usuário pode
+fazer login no SIGAA e acessar o portal do egresso (como mostrado na seção `CGIPES`_), o usuário pode
 passar o mouse sobre o menu *Oportunidades* e clicar no submenu *Gerenciar Vagas de Emprego*, como mostra
 a figura a seguir:
 
@@ -24,13 +24,13 @@ mostra a imagem a seguir:
 Em seguida o sistema carrega o formulário de criação de nova vaga de emprego. Os campos marcados com ``*``
 são obrigatórios. Os campos *Periodo de Inscrição (inicial e final)* são do tipo *data*
 e os campos *Instituição* e *Instituição de Seleção* são do tipo *autocompletar*. Esses dois tipo de campos
-foram descritos na seção :ref:`cadastro_novo_membro_cgipes`.
+foram descritos na seção `Cadastro de Novo Membro do CGIPES`_.
 
 .. image:: /_static/img/portal-egressos/vagas_emprego/form_nova_vaga_emprego.png
 
 O campo *Disponível na Área Pública* marca a vaga de emprego a ser cadastrada como pública. Esse campo define
 se os **detalhes** da mesma podem ser visualizados na área pública do SIGAA. Para mais detalhes sobre visualização
-de oportunidades, acesse a seção :ref:`visualizar_oportunidades`.
+de oportunidades, acesse a seção `Visualizar Oportunidades`_.
 
 Os campos *link*, *telefone* e *email*, da seção *Mais Informações* não são requeridos entre si,
 **mas um deles precisa ser informado**. Caso o usuário deixe os três campos em branco, o sistema exibe uma
@@ -53,7 +53,7 @@ Após a vaga de emprego ser selecionada, o sistema carrega a página contendo o 
 preenchidos. O usuário altera os dados a seu critério e em seguida clicar no botão *Atualizar*. Se os campos
 estivem com os formatos corretos, o sistema atualiza a vaga de emprego e redireciona para a página contendo a listagem de
 todas a vagas de emprego e ações.
-Os botões *voltar* e *cancelar* funcionam de forma idêntica ao do formulário da seção :ref:`cadastrar_novo_cgipes`.
+Os botões *voltar* e *cancelar* funcionam de forma idêntica ao do formulário da seção `Cadastrar Novo CGIPES`_.
 
 .. image:: /_static/img/portal-egressos/vagas_emprego/atualizar_vaga_emprego_form.png
 
@@ -84,7 +84,7 @@ Cadastro de Novo Cargo
 """"""""""""""""""""""
 
 Todos os campos marcados com ``*`` são obrigatórios. O campo *município* é do tipo *autocompletar*, como descrito na
-seção :ref:`cadastro_novo_membro_cgipes`.
+seção `Cadastro de Novo Membro do CGIPES`_.
 
 O campo *Áreas do CNPQ* é formado por 3 seções. Uma listagem de áreas do CNPQ do lado esquerdo, uma lista de botões de ação
 no centro e uma lista de áreas do CNPQ do lado direito. **Os items selecionados para o campo são os items que estão

@@ -2,7 +2,7 @@ Instituições
 ------------
 
 Instituições podem ser gerenciadas por gestores do portal do egresso. Após
-fazer login no SIGAA e acessar o portal do egresso (como mostrado na seção :ref:`cgipes`), o usuário pode
+fazer login no SIGAA e acessar o portal do egresso (como mostrado na seção `CGIPES`_), o usuário pode
 passar o mouse sobre o menu *Oportunidades* e clicar no submenu *Gerenciar Instituições*, como mostra
 a figura a seguir:
 
@@ -50,7 +50,7 @@ Após a instituição ser selecionada, o sistema carrega a página contendo o fo
 preenchidos. O usuário altera os dados a seu critério e em seguida clicar no botão *Atualizar*. Se os campos
 estivem com os formatos corretos, o sistema atualiza a instituição e redireciona para a página de listagem de
 instituições. 
-Os botões *voltar* e *cancelar* funcionam de forma idêntica ao do formulário da seção :ref:`cadastrar_novo_cgipes`.
+Os botões *voltar* e *cancelar* funcionam de forma idêntica ao do formulário da seção `Cadastrar Novo CGIPES`_.
 
 .. image:: /_static/img/portal-egressos/instituicoes/atualizar_instituicao_form.png
 
