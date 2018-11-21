@@ -38,7 +38,7 @@ Manuais dos Módulos do SIG
    \part{Sistemas}
 
 .. toctree::
-   :maxdepth: 5
+   :maxdepth: 3
    :caption: Sistemas
 
-   SIG <sistemas/sig.rst>
+   sistemas/sig/sig.rst

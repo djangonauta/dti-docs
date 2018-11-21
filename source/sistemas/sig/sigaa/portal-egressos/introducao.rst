@@ -1,5 +1,5 @@
 Introdução
-==========
+----------
 
 O Portal de Egressos é um módulo externo ao SIGAA (*Sistema Integrado de Gestão de Atividades Acadêmicas*),
 desenvolvido pela DTI (*Diretoria de Tecnologia da Tecnologia*) do IFPA (*Instituto Federal do Pará*),
