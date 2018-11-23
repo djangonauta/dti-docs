@@ -1,8 +1,8 @@
-SIG
-###
+SIG -  Sistema de Integrado de Gestão
+#####################################
 
-SIGAA
-*****
+SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas
+************************************************************
 
 Portal do Egresso
 =================
