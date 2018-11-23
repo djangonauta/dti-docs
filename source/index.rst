@@ -45,25 +45,25 @@ Manuais em PDF
 
     * SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas
 
-        `Manual do Docente <http://localhost:9000/_downloads/SIGAA.Manual.do.Docente.pdf>`_
+        `Manual do Docente <https://dti.ifpa.edu.br/manuais/_downloads/SIGAA.Manual.do.Docente.pdf>`_
 
-        `Assistência Estudantil - Manual do Discente <http://localhost:9000/_downloads/SIGAA.SAE.Manual.DiscenteV3.pdf>`_
+        `Assistência Estudantil - Manual do Discente <https://dti.ifpa.edu.br/manuais/_downloads/SIGAA.SAE.Manual.DiscenteV3.pdf>`_
 
-        `Assistência Estudantil - Manual do Coordenador <http://localhost:9000/_downloads/SIGAA.SAE.Manual.CoordenadorV2.pdf>`_
+        `Assistência Estudantil - Manual do Coordenador <https://dti.ifpa.edu.br/manuais/_downloads/SIGAA.SAE.Manual.CoordenadorV2.pdf>`_
 
-        `Técnico - Manual da Diretoria de Ensino <http://localhost:9000/_downloads/SIGAA.NEE.Manual.da.DE.PROEN.pdf>`_
+        `Técnico - Manual da Diretoria de Ensino <https://dti.ifpa.edu.br/manuais/_downloads/SIGAA.NEE.Manual.da.DE.PROEN.pdf>`_
 
-        `Formação Complementar - Manual da Diretoria de Ensino <http://localhost:9000/_downloads/SIGAA.NEE.Manual.da.DE.PROEN.pdf>`_
+        `Formação Complementar - Manual da Diretoria de Ensino <https://dti.ifpa.edu.br/manuais/_downloads/SIGAA.NEE.Manual.da.DE.PROEN.pdf>`_
 
-        `Graduação - Manual da Diretoria de Ensino <http://localhost:9000/_downloads/SIGAA.Modulo.Graduacao.Manual.da.DE.pdf>`_
+        `Graduação - Manual da Diretoria de Ensino <https://dti.ifpa.edu.br/manuais/_downloads/SIGAA.Modulo.Graduacao.Manual.da.DE.pdf>`_
 
-        `Estágio - Manual da Diretoria de Extensão <http://localhost:9000/_downloads/SIGAA.Modulo.Estagio.pdf>`_
+        `Estágio - Manual da Diretoria de Extensão <https://dti.ifpa.edu.br/manuais/_downloads/SIGAA.Modulo.Estagio.pdf>`_
 
-        `Extensão - Cadastro de Cursos <http://localhost:9000/_downloads/SIGAA.Modulo.Extensao.Cadastro.de.Cursos.pdf>`_
+        `Extensão - Cadastro de Cursos <https://dti.ifpa.edu.br/manuais/_downloads/SIGAA.Modulo.Extensao.Cadastro.de.Cursos.pdf>`_
 
-        `NEE - Manual da Diretoria de Ensino e PROEN <http://localhost:9000/_downloads/SIGAA.NEE.Manual.da.DE.PROEN.pdf>`_
+        `NEE - Manual da Diretoria de Ensino e PROEN <https://dti.ifpa.edu.br/manuais/_downloads/SIGAA.NEE.Manual.da.DE.PROEN.pdf>`_
 
-        `Extensão - Gerenciamento de Participantes de Cursos <http://localhost:9000/_downloads/SIGAA.Modulo.Extensao.Gerenciamento.de.Participantes.de.Cursos.pdf>`_
+        `Extensão - Gerenciamento de Participantes de Cursos <https://dti.ifpa.edu.br/manuais/_downloads/SIGAA.Modulo.Extensao.Gerenciamento.de.Participantes.de.Cursos.pdf>`_
 
 
 .. only:: html
@@ -101,31 +101,31 @@ Manuais em PDF
 
     * SIPAC - Sistema Integrado de Patrimônio, Administração e Contratos
 
-        `Almoxarifado - Manual do Requisitante <http://localhost:9000/_downloads/Manual-requisitante-material-portal.pdf>`_
+        `Almoxarifado - Manual do Requisitante <https://dti.ifpa.edu.br/manuais/_downloads/Manual-requisitante-material-portal.pdf>`_
 
-        `Almoxarifado - Manual do Gestor <http://localhost:9000/_downloads/Manual-gestor-almoxarifado-principais-funcionalidades.pdf>`_
+        `Almoxarifado - Manual do Gestor <https://dti.ifpa.edu.br/manuais/_downloads/Manual-gestor-almoxarifado-principais-funcionalidades.pdf>`_
 
-        `Boletim de Serviços - Manual do Cadastrador <http://localhost:9000/_downloads/SIPAC.Modulo.Boletim.de.Servicos.Manual.do.Cadastrador.pdf>`_
+        `Boletim de Serviços - Manual do Cadastrador <https://dti.ifpa.edu.br/manuais/_downloads/SIPAC.Modulo.Boletim.de.Servicos.Manual.do.Cadastrador.pdf>`_
 
-        `Boletim de Serviços - Manual do Autorizador <http://localhost:9000/_downloads/SIPAC.Modulo.Boletim.de.Servicos.Manual.do.Autorizador.pdf>`_
+        `Boletim de Serviços - Manual do Autorizador <https://dti.ifpa.edu.br/manuais/_downloads/SIPAC.Modulo.Boletim.de.Servicos.Manual.do.Autorizador.pdf>`_
 
-        `Boletim de Serviços - Manual do Gestor <http://localhost:9000/_downloads/SIPAC.Modulo.Boletim.de.Servicos.Manual.do.Gestor.pdf>`_
+        `Boletim de Serviços - Manual do Gestor <https://dti.ifpa.edu.br/manuais/_downloads/SIPAC.Modulo.Boletim.de.Servicos.Manual.do.Gestor.pdf>`_
 
-        `Orçamento - Manual do Servidor <http://localhost:9000/_downloads/SIPAC.Modulo.Orcamento.Manual.do.Servidor.pdf>`_
+        `Orçamento - Manual do Servidor <https://dti.ifpa.edu.br/manuais/_downloads/SIPAC.Modulo.Orcamento.Manual.do.Servidor.pdf>`_
 
-        `Orçamento - Manual do Gestor <http://localhost:9000/_downloads/SIPAC.Modulo.Orcamento.Manual.do.Gestor.pdf>`_
+        `Orçamento - Manual do Gestor <https://dti.ifpa.edu.br/manuais/_downloads/SIPAC.Modulo.Orcamento.Manual.do.Gestor.pdf>`_
 
-        `Contratos - Manual do Fiscal <http://localhost:9000/_downloads/SIPAC.Modulo.Contratos.Manual.do.Fiscal.pdf>`_
+        `Contratos - Manual do Fiscal <https://dti.ifpa.edu.br/manuais/_downloads/SIPAC.Modulo.Contratos.Manual.do.Fiscal.pdf>`_
 
-        `Contratos - Manual da PROAD/DA <http://localhost:9000/_downloads/SIPAC.Modulo.Contratos.Manual.da.PROAD.2.pdf>`_
+        `Contratos - Manual da PROAD/DA <https://dti.ifpa.edu.br/manuais/_downloads/SIPAC.Modulo.Contratos.Manual.da.PROAD.2.pdf>`_
 
-        `Protocolo <http://localhost:9000/_downloads/SIPAC.Modulo.Protocolo.pdf>`_
+        `Protocolo <https://dti.ifpa.edu.br/manuais/_downloads/SIPAC.Modulo.Protocolo.pdf>`_
 
-        `Transportes <http://localhost:9000/_downloads/SIPAC.Modulo.Transportes.pdf>`_
+        `Transportes <https://dti.ifpa.edu.br/manuais/_downloads/SIPAC.Modulo.Transportes.pdf>`_
 
-        `Catálogo de Materiais - Roteiro de Cadastro de Material <http://localhost:9000/_downloads/SIPAC.Modulo.CatalagoDeMateriais.Roteiro-Cadastro-de-Material.pdf>`_
+        `Catálogo de Materiais - Roteiro de Cadastro de Material <https://dti.ifpa.edu.br/manuais/_downloads/SIPAC.Modulo.CatalagoDeMateriais.Roteiro-Cadastro-de-Material.pdf>`_
 
-        `Patrimônio - Roteiro de Tombamento Manual <http://localhost:9000/_downloads/SIPAC.Modulo.Patrimonio.Roteiro-Tombamento-Manual.pdf>`_
+        `Patrimônio - Roteiro de Tombamento Manual <https://dti.ifpa.edu.br/manuais/_downloads/SIPAC.Modulo.Patrimonio.Roteiro-Tombamento-Manual.pdf>`_
 
 
 .. only:: html
@@ -143,11 +143,11 @@ Manuais em PDF
 
     * SIGP - Sistema Integrado de Gestão de Pessoas
 
-        `Férias - Manual do Servidor <http://localhost:9000/_downloads/SIGP.Modulo.Ferias.Manual.do.Servidor.pdf>`_
+        `Férias - Manual do Servidor <https://dti.ifpa.edu.br/manuais/_downloads/SIGP.Modulo.Ferias.Manual.do.Servidor.pdf>`_
 
-        `Férias - Manual do Chefe <http://localhost:9000/_downloads/SIGP.Modulo.Ferias.Manual.do.Chefe.pdf>`_
+        `Férias - Manual do Chefe <https://dti.ifpa.edu.br/manuais/_downloads/SIGP.Modulo.Ferias.Manual.do.Chefe.pdf>`_
 
-        `Férias - Manual da DGP <http://localhost:9000/_downloads/SIGP.Modulo.Ferias.Manual.da.DGP.pdf>`_
+        `Férias - Manual da DGP <https://dti.ifpa.edu.br/manuais/_downloads/SIGP.Modulo.Ferias.Manual.da.DGP.pdf>`_
 
 
 .. only:: html
@@ -163,9 +163,9 @@ Manuais em PDF
 
     * SIGPP - Sistema Integrado de Planejamento
 
-        `Metas - Manual do Diretor <http://localhost:9000/_downloads/SIGPP.Modulo.Metas.Manual.do.Diretor.pdf>`_
+        `Metas - Manual do Diretor <https://dti.ifpa.edu.br/manuais/_downloads/SIGPP.Modulo.Metas.Manual.do.Diretor.pdf>`_
 
-        `Metas - Manual da PRODIN <http://localhost:9000/_downloads/SIGPP.Modulo.Metas.Manual.da.PRODIN.pdf>`_
+        `Metas - Manual da PRODIN <https://dti.ifpa.edu.br/manuais/_downloads/SIGPP.Modulo.Metas.Manual.da.PRODIN.pdf>`_
 
 
 .. only:: html
@@ -179,7 +179,7 @@ Manuais em PDF
 
     * SIGED - Sistema Integrado de Gestão Eletrônica de Documentos
 
-        `Manual do Gestor de Documentos <http://localhost:9000/_downloads/SIGED.Manual.pdf>`_
+        `Manual do Gestor de Documentos <https://dti.ifpa.edu.br/manuais/_downloads/SIGED.Manual.pdf>`_
 
 
 .. only:: html
@@ -215,26 +215,26 @@ Manuais em PDF
 
     * SRI
 
-        `VPN - Windows - Manual de Instalação <http://localhost:9000/_downloads/SRI.VPN.Manual.de.Instalacao.pdf>`_
+        `VPN - Windows - Manual de Instalação <https://dti.ifpa.edu.br/manuais/_downloads/SRI.VPN.Manual.de.Instalacao.pdf>`_
 
-        `Filesender - Manual de utilização <http://localhost:9000/_downloads/SRI.RNP.Filesender.pdf>`_
+        `Filesender - Manual de utilização <https://dti.ifpa.edu.br/manuais/_downloads/SRI.RNP.Filesender.pdf>`_
 
-        `Acesso pasta compartilhada <http://localhost:9000/_downloads/SRI.pasta.compartilhada.pdf>`_
+        `Acesso pasta compartilhada <https://dti.ifpa.edu.br/manuais/_downloads/SRI.pasta.compartilhada.pdf>`_
 
-        `Backup Email institucional <http://localhost:9000/_downloads/SRI.Backup.Email.pdf>`_
+        `Backup Email institucional <https://dti.ifpa.edu.br/manuais/_downloads/SRI.Backup.Email.pdf>`_
 
-        `Sincronizar Email Outlook <http://localhost:9000/_downloads/SRI.sincronizar.email.outlook.pdf>`_
+        `Sincronizar Email Outlook <https://dti.ifpa.edu.br/manuais/_downloads/SRI.sincronizar.email.outlook.pdf>`_
 
-        `Adicionar usuario ao grupo de email <http://localhost:9000/_downloads/SRI.Adicionar.usuario.grupo.email.pdf>`_
+        `Adicionar usuario ao grupo de email <https://dti.ifpa.edu.br/manuais/_downloads/SRI.Adicionar.usuario.grupo.email.pdf>`_
 
-        `Formulario para conta de rede <http://localhost:9000/_downloads/SRI.Formulario.Rede.IFPA.pdf>`_
+        `Formulario para conta de rede <https://dti.ifpa.edu.br/manuais/_downloads/SRI.Formulario.Rede.IFPA.pdf>`_
 
-        `Geracao do PIN servico reprografia <http://localhost:9000/_downloads/SRI.geracao.PIN.pdf>`_
+        `Geracao do PIN servico reprografia <https://dti.ifpa.edu.br/manuais/_downloads/SRI.geracao.PIN.pdf>`_
 
-        `Acesso Webconf <http://localhost:9000/_downloads/SRI.Webconf.pdf>`_
+        `Acesso Webconf <https://dti.ifpa.edu.br/manuais/_downloads/SRI.Webconf.pdf>`_
 
-        `Adicionar IFPA na lista endecamento confiaveis Hotmail <http://localhost:9000/_downloads/SRI.Adicionar.IFPA.Hotmail.pdf>`_
+        `Adicionar IFPA na lista endecamento confiaveis Hotmail <https://dti.ifpa.edu.br/manuais/_downloads/SRI.Adicionar.IFPA.Hotmail.pdf>`_
 
-        `Instalacao ZimbraDesktop <http://localhost:9000/_downloads/SRI.Instalacao.ZimbraDesktop.pdf>`_
+        `Instalacao ZimbraDesktop <https://dti.ifpa.edu.br/manuais/_downloads/SRI.Instalacao.ZimbraDesktop.pdf>`_
 
-        `Eduroam - Cliente Android <http://localhost:9000/_downloads/SRI.cliente.eduroam.android.pdf>`_
+        `Eduroam - Cliente Android <https://dti.ifpa.edu.br/manuais/_downloads/SRI.cliente.eduroam.android.pdf>`_
