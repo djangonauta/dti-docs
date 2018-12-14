@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Constroe e distribui a documentação sphinx."""
+"""Constroe e distribui a documentação sphinx do projeto."""
 
 import argparse
 import os
