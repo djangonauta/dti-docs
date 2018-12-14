@@ -7,6 +7,8 @@ SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas
 Módulo Extensão
 ===============
 
+.. include:: ./sigaa/extensao/introducao.rst
+
 
 Portal do Egresso
 =================
