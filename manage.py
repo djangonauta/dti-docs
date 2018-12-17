@@ -7,6 +7,8 @@ import os
 
 def main():
     """Executa o módulo."""
+    host = '0.0.0.0'
+
     parser = argparse.ArgumentParser()
     parser.add_argument('--executar', action='store_true', default=False, dest='executar')
     parser.add_argument('--construir', action='store_true', default=False, dest='construir')
@@ -16,12 +18,14 @@ def main():
 
     cmd = ''
     if args.executar:
-        cmd = f'sphinx-autobuild source/ build/ -p {args.port}'
+        cmd = f'sphinx-autobuild source/ build/ --host {host} -p {args.port}'
+
     if args.construir:
         cmd = f'make clean;make html;make latexpdf;make html'
 
     if args.distribuir:
-        cmd = f'make clean;make html;make latexpdf;make html;livereload ./build/html -p {args.port}'
+        cmd = f'make clean;make html;make latexpdf;make html;livereload ./build/html '
+        cmd += f'--host {host} -p {args.port}'
 
     if cmd:
         os.system(cmd)
