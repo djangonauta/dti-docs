@@ -19,7 +19,7 @@ Manuais dos Módulos do SIG
 .. only:: html
 
     * SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas
-        
+
         :download:`Manual do Docente <../build/html/_static/manuais/sigaa/SIGAA.Manual.do.Docente.pdf>`
 
         :download:`Assistência Estudantil - Manual do Discente <../build/html/_static/manuais/sigaa/SIGAA.SAE.Manual.DiscenteV3.pdf>`
@@ -115,7 +115,7 @@ Manuais dos Módulos do SIG
 .. only:: latex
 
     * SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas
-        
+
         `Manual do Docente <https://dti.ifpa.edu.br/manuais/_downloads/SIGAA.Manual.do.Docente.pdf>`_
 
         `Assistência Estudantil - Manual do Discente <https://dti.ifpa.edu.br/manuais/_downloads/SIGAA.SAE.Manual.DiscenteV3.pdf>`_
