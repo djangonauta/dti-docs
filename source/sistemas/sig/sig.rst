@@ -9,6 +9,7 @@ Módulo Extensão
 
 .. include:: ./sigaa/extensao/introducao.rst
 .. include:: ./sigaa/extensao/edital.rst
+.. include:: ./sigaa/extensao/proposta.rst
 
 
 Portal do Egresso

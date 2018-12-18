@@ -59,7 +59,7 @@ editais, conforme mostra a imagem a seguir:
 .. only:: latex
 
     Nessa tela é possível clicar no botão |seta_direita_pdf| para carregar o formulário de envio de arquivo para o edital.
-    O usuário clica no botão *Escolher Arquivo* para escolher o arquivo a ser enviado e sem seguida no botão *enviar arquivo* para salvá-lo,
+    O usuário clica no botão *Escolher Arquivo* para escolher o arquivo a ser enviado e sem seguida no botão *Enviar Arquivo* para salvá-lo,
     conforme mostra a imagem a seguir:
 
 .. image:: /_static/img/extensao/form-enviar-arquivo.png
