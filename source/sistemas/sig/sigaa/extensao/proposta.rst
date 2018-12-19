@@ -66,7 +66,7 @@ conforme imagem a seguir:
 
 .. image:: /_static/img/extensao/curso-local-realizacao.png
 
-A seção *Formas de Financiamento do Projeto* possuem campos do tipo caixa de texto que se expandem monstrando
+A seção *Formas de Financiamento do Projeto* possuem campos do tipo caixa de seleção que se expandem monstrando
 mais opções ao usuário. Caso o curso esteja vinculado a um edital (financiamento), por exemplo, é possível
 selecionar o edital de vínculo de acordo com a imagem a seguir:
 
@@ -80,7 +80,7 @@ Os campos das abas Resumo, Programação, Objetivos Gerais e Resultados Esperado
 
 .. image:: /_static/img/extensao/dados-curso.png
 
-Após preencher os dados corretamente, o usuário clica no botão Avançar para acessar o próximo subformulário.
+Após preencher os dados corretamente, o usuário clica no botão *Avançar* para acessar o próximo subformulário.
 
 O próximo subformulário contém dados a respeito de mini atividades vinculadas ao curso, caso existam. Após preencher
 os dados da mini atividade, o usuário clica no botão *Adicionar Mini Atividade* para incluir a mesma.
@@ -100,7 +100,7 @@ Por padrão, essa listagem vem preenchida com um membro, no caso, o coordenador 
 
 .. image:: /_static/img/extensao/curso-membros-equipe.png
 
-Após preencher os dados corretamente, o usuário clica no botão Avançar para acessar o próximo subformulário.
+Após preencher os dados corretamente, o usuário clica no botão *Avançar* para acessar o próximo subformulário.
 
 O próximo subformulário especifica a equipe executora da ação de extensão. É necessário cadastrar um ou mais
 objetivos para ação e em cada um desses objetivos é possível especificar qual é a atribuição de um ou mais
@@ -126,6 +126,61 @@ cada objetivo (junto com os membros vinculados as mesmas). Se for preciso cadast
 clica novamente no botão *Cadastrar Objetivo* e repete o procedimento descrito anteriormente.
 
 .. image:: /_static/img/extensao/curso-membro-resultado.png
+
+Após preencher os dados corretamente, o usuário clica no botão *Avançar* para acessar o próximo subformulário.
+
+O próximo subformulário trata do detalhamento do orçamento da ação de extensao, caso exista. O usuário seleciona
+o tipo da despesa (Diárias, Material de Consumo, Passagens, Pessoa Física, Pessoa Jurídica e Equipamentos), preenche
+os campos *Discriminação*, *Quantidade* e *Valor Unitário* e clica no botão *Adicionar Despesa* para incluir a mesma
+na listagem de despesas da seção *Lista de Despesas Cadastradas*. Após preencher as despesas da ação (caso existam)
+o usuário clica no botão *Avançar* para acessar o próximo subformulário.
+
+.. image:: /_static/img/extensao/curso-orcamento.png
+
+O próximo formulário trata da consolidação das despesas informadas anteriormente. Para cada despesa informada,
+o usuário deve especificar qual a origem do financimento, podendo dividir entre Interno (Proex), Fundação (Fadesp)
+e Outros (Externo). Após especificar corretamente os valores para cada despesa, o usuário clica no
+botão *Avançar* para acessar o próximo formulário:
+
+.. image:: /_static/img/extensao/curso-consolidacao-orcamento.png
+
+O próximo formulário permite anexar arquivos a ação de extensão. Para isso, o usuário clica no botão *Anexar Arquivo*
+após fornecer um nome e selecionar o arquivo a ser enviado. O arquivo é então adicionado na listagem da seção
+*Lista de Arquivos anexados com sucesso*. A anexação de arquivos não é requerida para uma ação de extensão.
+
+.. image:: /_static/img/extensao/curso-arquivos.png
+
+Após preencher os dados corretamente, o usuário clica no botão *Avançar* para acessar o próximo subformulário.
+
+.. warning::
+    Caso o usuário selecione o botão de rádio **Não (Remove arquivos existentes caso clique em avançar)** e clique no
+    botão *Avançar*, todos os arquivo anexados para esse curso serão **removidos**.
+
+O próximo formulário permite anexar fotos a ação de extensão. Para isso, o usuário clica no botão *Anexar Foto*
+após fornecer um nome e selecionar a foto a ser enviada. A foto é então adicionada na listagem da seção
+*Lista de fotos da ação de extensão*. A anexação de fotos não é requerida para uma ação de extensão.
+
+.. image:: /_static/img/extensao/curso-fotos.png
+
+Após preencher os dados corretamente, o usuário clica no botão *Avançar* para acessar o próximo subformulário.
+
+.. warning::
+    Caso o usuário selecione o botão de rádio **Não (Remove fotos existentes caso clique em avançar)** e clique no
+    botão *Avançar*, todos as fotos anexadas para esse curso serão **removidas**.
+
+O último subformulário contém um resumo completo da ação, contendo todos os dados informados nos subformulários
+anteriores de forma que o usuário possa fazer uma revisão final, antes de efetivamente submeter a proposta
+para avaliação por parte da chefia imediata. Caso haja alguma discrepância nos valores informados, o usuário pode
+retornar aos subformulários anteriores utilizando o botão *Voltar* e corrigir/alterar os dados de acordo com a
+necessidade. Após verificar os dados informados, o usuário clica no botão *Submeter à Aprovação*.
+
+.. image:: /_static/img/extensao/curso-resumo-1.png
+.. image:: /_static/img/extensao/curso-resumo-2.png
+.. image:: /_static/img/extensao/curso-resumo-3.png
+
+.. warning::
+    Após uma proposta ser enviada, ela só poderá ser editada caso o chefe imediato envie de volta a proposta
+    para o coordenador da mesma.
 
 .. raw:: latex
 
