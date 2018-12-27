@@ -53,7 +53,7 @@ Nova proposta (Curso)
 ^^^^^^^^^^^^^^^^^^^^^
 
 O formulário de submissão de nova proposta de curso (assim como o formulário de outras ações de extensão) consiste em vários
-subformulários que devem ser preenchidos em sequencia. As imagens a seguir mostram o primeiro
+subformulários que devem ser preenchidos em sequência. As imagens a seguir mostram o primeiro
 subformulário — **1. Dados gerais da ação**:
 
 .. image:: /_static/img/extensao/dados-gerais-curso-1.png
@@ -179,7 +179,7 @@ necessidade. Após verificar os dados informados, o usuário clica no botão *Su
 .. image:: /_static/img/extensao/curso-resumo-3.png
 
 .. warning::
-    Após uma proposta ser enviada, ela só poderá ser editada caso o chefe imediato envie de volta a proposta
+    Após uma proposta ser submetida a aprovação, ela só poderá ser editada caso o chefe imediato envie de volta a proposta
     para o coordenador da mesma.
 
 .. raw:: latex

@@ -71,6 +71,11 @@ editais, conforme mostra a imagem a seguir:
 .. |seta_direita| image:: /_static/img/seta-direita.png
 .. |seta_direita_pdf| image:: /_static/img/seta-direita-pdf.png
 
+Editais publicados podem ser visualizados na página do docente (parte inferior da página) após o mesmo fazer
+login no SIGAA:
+
+.. image:: /_static/img/extensao/edital-docente.png
+
 .. raw:: latex
 
     \newpage
