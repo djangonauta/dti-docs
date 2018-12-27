@@ -63,5 +63,6 @@ e ações que o usuário participa. A situação *SUBMETIDA* é para ações que
 Após a ação ter sido aprovada por todas as chefias relacionadas, a mesma precisa ser analisada por avaliadores
 extensionistas.
 
-.. |seta_direita| image:: /_static/img/seta-direita.png
-.. |seta_direita_pdf| image:: /_static/img/seta-direita-pdf.png
+.. raw:: latex
+
+    \newpage

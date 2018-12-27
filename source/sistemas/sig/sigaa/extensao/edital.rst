@@ -22,20 +22,12 @@ Com isso o formulário de criação de novo edital pode ser acessado, conforme a
     possível passar o cursor do mouse nos ícones |ajuda| para obter mais informações a respeito do campo a ser
     preenchido.
 
-.. |asterisco| image:: /_static/img/asterisco.png
-.. |campo_data| image:: /_static/img/campo-data.png
-.. |ajuda| image:: /_static/img/ajuda.png
-
 .. only:: latex
 
     Todos campos marcados com |asterisco_pdf| são *requeridos*. Os campos que contém o ícone |campo_data_pdf| são do tipo
     data: o usuário clica no ícone e em seguida escolhe uma data no calendário que é exibido na tela. Também é
     possível passar o cursor do mouse nos ícones |ajuda_pdf| para obter mais informações a respeito do campo a ser
     preenchido.
-
-.. |asterisco_pdf| image:: /_static/img/asterisco-pdf.png
-.. |campo_data_pdf| image:: /_static/img/campo-data-pdf.png
-.. |ajuda_pdf| image:: /_static/img/ajuda-pdf.png
 
 É necessário cadastrar **pelo menos uma restrição de submissão** por edital. As restrições de um edital
 aparecem na seção *LISTA DE RESTRIÇÕES CADASTRADAS* do formulário. Para cadastrar uma restrição, o
@@ -67,9 +59,6 @@ editais, conforme mostra a imagem a seguir:
 .. warning::
     Caso mais de um arquivo seja enviado, o anterior (caso exista) é **sobrescrito** (removido). Apenas o último arquivo
     enviado é mantido pelo sistema.
-
-.. |seta_direita| image:: /_static/img/seta-direita.png
-.. |seta_direita_pdf| image:: /_static/img/seta-direita-pdf.png
 
 Editais publicados podem ser visualizados na página do docente (parte inferior da página) após o mesmo fazer
 login no SIGAA:
