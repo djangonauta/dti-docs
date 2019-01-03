@@ -12,7 +12,7 @@ Para aprovar uma proposta de ação de extensão, a chefia imediata, após logar
 como descrito anteriormente e clica no link *Autorizar Ações de Extensão* da seção *Chefia* da aba *Ações de Extensão*
 conforme imagem a seguir:
 
-.. image:: /_static/img/extensao/autorizar-acao.png
+.. image:: /_static/img/extensao/chefia/autorizar-acao.png
 
 .. only:: html
 
@@ -26,17 +26,17 @@ conforme imagem a seguir:
     Para acessar o formulário de avaliação, o usuário clica no botão |seta_direita_pdf| *Analisar Proposta*, de acordo com a imagem
     a seguir:
 
-.. image:: /_static/img/extensao/lista-acoes-aprovacao.png
+.. image:: /_static/img/extensao/chefia/lista-acoes-aprovacao.png
 
 O formulário de aprovação de propostas possui 3 campos: **Parecer** (Validar ou Não Validar), **Tipo de Autorização**
 (AD-REFERENDUM, REUNIÃO EXTRA-ORDINÁRIA, REUNIÃO ORDINÁRIA) e a **Data da reunião**. Após preencher os dados corretamente,
 o usuário clica no botão *Confirmar*, conforme imagem a seguir:
 
-.. image:: /_static/img/extensao/analise-form-acao.png
+.. image:: /_static/img/extensao/chefia/analise-form-acao.png
 
 Por fim, o sistema carrega uma tela contendo o recibo de autorização da ação:
 
-.. image:: /_static/img/extensao/recibo-autorizacao-acao.png
+.. image:: /_static/img/extensao/chefia/recibo-autorizacao-acao.png
 
 .. warning::
     Uma ação que possua integrantes de departamentos diferentes precisa de autorização separada de cada chefia
@@ -46,19 +46,19 @@ Por fim, o sistema carrega uma tela contendo o recibo de autorização da ação
 O coordenador (Técnico Administrativo) de uma ação/proposta pode verificar a situação da mesma acessando o link
 *Listar Minhas Ações* da seção *Gerenciar Ações* na aba *Ações de Extensão*:
 
-.. image:: /_static/img/extensao/listar-minhas-acoes-tecnico.png
+.. image:: /_static/img/extensao/chefia/listar-minhas-acoes-tecnico.png
 
 O coordenador (Docente) de uma ação/proposta pode verificar a situação da mesma acessando os menus/submenus
 *Extensão* → *Ações de Extensão* → *Gerenciar Ações* → *Listar Minhas Ações*:
 
-.. image:: /_static/img/extensao/listar-minhas-acoes-docente.png
+.. image:: /_static/img/extensao/chefia/listar-minhas-acoes-docente.png
 
 O sistema carrega uma página contendo ações de extensão com cadastro em andamento, ações que o usuário coordena
 e ações que o usuário participa. A situação *SUBMETIDA* é para ações que foram aprovadas pelos departamentos
 (chefia imediata), mas estão pendentes de análise por avaliadores extensionistas.
 
 
-.. image:: /_static/img/extensao/minhas-acoes.png
+.. image:: /_static/img/extensao/chefia/minhas-acoes.png
 
 Após a ação ter sido aprovada por todas as chefias relacionadas, a mesma precisa ser analisada por avaliadores
 extensionistas.

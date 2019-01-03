@@ -13,6 +13,7 @@ Módulo Extensão
 .. include:: ./sigaa/extensao/aprovacao-chefia.rst
 .. include:: ./sigaa/extensao/distribuicao-avaliadores.rst
 .. include:: ./sigaa/extensao/avaliacao-acao.rst
+.. include:: ./sigaa/extensao/avaliacao-final.rst
 
 
 Portal do Egresso

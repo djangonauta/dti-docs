@@ -9,11 +9,11 @@ clicando no respectivo ícone do menu módulos:
 Após acessar o módulo, deve-se clicar na aba *CCEP* (Coordenação de Cursos, Eventos e Produtos de Extensão) e em
 seguida no link *cadastrar* da seção *Editais*, como mostra a figura a seguir:
 
-.. image:: /_static/img/extensao/link-cadastrar-edital.png
+.. image:: /_static/img/extensao/edital/link-cadastrar-edital.png
 
 Com isso o formulário de criação de novo edital pode ser acessado, conforme a imagem a seguir:
 
-.. image:: /_static/img/extensao/form-edital.png
+.. image:: /_static/img/extensao/edital/form-edital.png
 
 .. only:: html
 
@@ -34,13 +34,13 @@ aparecem na seção *LISTA DE RESTRIÇÕES CADASTRADAS* do formulário. Para cad
 usuário deve preencher os dados da seção *RESTRIÇÕES PARA SUBMISSÃO DE AÇÕES NESTE EDITAL* e em seguida clicar
 no botão *adicionar regra*, como mostra a figura abaixo:
 
-.. image:: /_static/img/extensao/adicionar-regra.png
+.. image:: /_static/img/extensao/edital/adicionar-regra.png
 
 Após preencher todos os dados corretamente, o usuário clica no botão *cadastrar* para registrar um novo edital
 no sistema. Se não houverem erros, o edital será cadastrado e o sistema exibirá a tela contendo a listagem de
 editais, conforme mostra a imagem a seguir:
 
-.. image:: /_static/img/extensao/listagem-editais.png
+.. image:: /_static/img/extensao/edital/listagem-editais.png
 
 .. only:: html
 
@@ -54,7 +54,7 @@ editais, conforme mostra a imagem a seguir:
     O usuário clica no botão *Escolher Arquivo* para escolher o arquivo a ser enviado e sem seguida no botão *Enviar Arquivo* para salvá-lo,
     conforme mostra a imagem a seguir:
 
-.. image:: /_static/img/extensao/form-enviar-arquivo.png
+.. image:: /_static/img/extensao/edital/form-enviar-arquivo.png
 
 .. warning::
     Caso mais de um arquivo seja enviado, o anterior (caso exista) é **sobrescrito** (removido). Apenas o último arquivo
@@ -63,7 +63,7 @@ editais, conforme mostra a imagem a seguir:
 Editais publicados podem ser visualizados na página do docente (parte inferior da página) após o mesmo fazer
 login no SIGAA:
 
-.. image:: /_static/img/extensao/edital-docente.png
+.. image:: /_static/img/extensao/edital/edital-docente.png
 
 .. raw:: latex
 
