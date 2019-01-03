@@ -32,10 +32,14 @@ Após selecionar os avaliadores desejados, o usuário clica no botão *Confirmar
 .. image:: /_static/img/extensao/distribuicao/distribuir-projeto2.png
 
 .. note::
-    A listagem de avaliadores disponíveis segue algumas diretrizes. Para ações vinculadas a um edital, a listagem
+    Para ações vinculadas a um edital, a listagem
     inclui apenas avaliadores adhocs que **não são do mesmo campus do coordenador da ação**. Para ações de fluxo contínuo (sem edital)
-    a listagem de avaliadores adhocs inclui avaliadores **do mesmo campus que o coordenador da ação**. Em ambos os casos, membros
+    a listagem de avaliadores adhocs inclui **apenas** avaliadores **do mesmo campus que o coordenador da ação**. Em ambos os casos, membros
     dos comitês de extensão são incluidos na listagem.
+
+.. note::
+    A listagem de avaliadores adhocs leva em consideração a correspondência da **Área do Conhecimento** do avaliador
+    e da proposta de ação de extensão.
 
 .. note::
     Os avaliadores adhocs selecionados para fazer a análise de uma dada ação de extensão são notificados por email.

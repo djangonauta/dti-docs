@@ -26,6 +26,12 @@ o momento: dados da ação de extensão, membros da equipe, orçamento detalhado
 O usuário precisa especificar o número de bolsas aprovadas (se houver) e valores de orçamento concedido pela PROEX (se houver),
 além da justificativa do seu parecer.
 
+.. image:: /_static/img/extensao/avaliacao-final/avaliacao-final-form1.png
+
+.. image:: /_static/img/extensao/avaliacao-final/avaliacao-final-form2.png
+
+.. image:: /_static/img/extensao/avaliacao-final/avaliacao-final-form3.png
+
 .. raw:: latex
 
     \newpage
