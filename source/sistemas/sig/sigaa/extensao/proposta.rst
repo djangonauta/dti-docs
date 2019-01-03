@@ -144,6 +144,10 @@ botão *Avançar* para acessar o próximo formulário:
 
 .. image:: /_static/img/extensao/curso-consolidacao-orcamento.png
 
+.. warning::
+    O sistema faz a validação do valor máximo a ser disponibilizado pela fundação de acordo com o edital vinculado
+    a proposta, se houver.
+
 O próximo formulário permite anexar arquivos a ação de extensão. Para isso, o usuário clica no botão *Anexar Arquivo*
 após fornecer um nome e selecionar o arquivo a ser enviado. O arquivo é então adicionado na listagem da seção
 *Lista de Arquivos anexados com sucesso*. A anexação de arquivos não é requerida para uma ação de extensão.

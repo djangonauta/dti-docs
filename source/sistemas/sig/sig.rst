@@ -11,7 +11,8 @@ Módulo Extensão
 .. include:: ./sigaa/extensao/edital.rst
 .. include:: ./sigaa/extensao/proposta.rst
 .. include:: ./sigaa/extensao/aprovacao-chefia.rst
-.. include:: ./sigaa/extensao/avaliacao-adhoc.rst
+.. include:: ./sigaa/extensao/distribuicao-avaliadores.rst
+.. include:: ./sigaa/extensao/avaliacao-acao.rst
 
 
 Portal do Egresso
