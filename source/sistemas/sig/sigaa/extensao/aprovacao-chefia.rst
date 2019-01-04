@@ -43,6 +43,8 @@ Por fim, o sistema carrega uma tela contendo o recibo de autorização da ação
     imediata desses departamentos envolvidos. Após todas as chefias manifestarem parecer válido, a ação pode ser
     analisada por avaliadores extensionistas.
 
+.. _minhas_acoes:
+
 O coordenador (Técnico Administrativo) de uma ação/proposta pode verificar a situação da mesma acessando o link
 *Listar Minhas Ações* da seção *Gerenciar Ações* na aba *Ações de Extensão*:
 

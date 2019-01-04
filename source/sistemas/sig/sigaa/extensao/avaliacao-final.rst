@@ -3,7 +3,7 @@ Avaliação final de propostas de ação de extensão
 
 A avaliação final de propostas é feita pelo Presidente do Comitê de Extensão. Após logar no SIGAA e acessar o módulo
 extensão, o usuário clica no link *Avaliação Final de Propostas (Presidente do Comitê)* da seção *Avaliar Propostas de Extensão*
-na aba *Informaçãoes Gerais*, conforme imagem a seguir:
+na aba *Informações Gerais*, conforme imagem a seguir:
 
 .. image:: /_static/img/extensao/avaliacao-final/avaliacao-final.png
 

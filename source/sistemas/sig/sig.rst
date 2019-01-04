@@ -14,6 +14,7 @@ Módulo Extensão
 .. include:: ./sigaa/extensao/distribuicao-avaliadores.rst
 .. include:: ./sigaa/extensao/avaliacao-acao.rst
 .. include:: ./sigaa/extensao/avaliacao-final.rst
+.. include:: ./sigaa/extensao/acao-execucao.rst
 
 
 Portal do Egresso
@@ -37,3 +38,5 @@ Portal do Egresso
 .. |asterisco_pdf| image:: /_static/img/asterisco-pdf.png
 .. |campo_data_pdf| image:: /_static/img/campo-data-pdf.png
 .. |ajuda_pdf| image:: /_static/img/ajuda-pdf.png
+
+.. |expandir| image:: /_static/img/expandir.png
