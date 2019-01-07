@@ -1,7 +1,7 @@
 Gerenciamento de Inscrições
 ---------------------------
 
-Após a ação ter sido iniciada, o usuário poderá gerenciar inscrições dos
+Após a ação ter sido iniciada, o usuário (coordenador) poderá gerenciar inscrições dos
 interessados na mesma. Após acessar a listagem de suas ações (como descrito :ref:`anteriormente <minhas_acoes>`),
 o usuário deverá clicar no link *Gerenciar Inscrições*:
 
@@ -28,6 +28,9 @@ o usuário clica no botão *Abrir Período de Inscrição*:
 
 .. image:: /_static/img/extensao/gerenciamento/inscricoes/periodo-inscricao-form2.png
 
+Após o período de inscrição ser aberto, interessados podem se inscrever na atividade.
+
+.. image:: /_static/img/extensao/gerenciamento/inscricoes/inscricao-aberta.png
 
 .. raw:: latex
 
