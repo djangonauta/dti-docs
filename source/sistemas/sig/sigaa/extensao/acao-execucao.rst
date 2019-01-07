@@ -16,6 +16,9 @@ O usuário deverá clicar no botão *Executar Ação de Extensão* para iniciali
 
 .. imagem:: /_static/img/extensao/execucao/confirmacao2.png
 
+.. note::
+    Após a ação ter sido iniciada, a situação da mesma passa para **EM EXECUÇÃO**.
+
 .. raw:: latex
 
     \newpage
