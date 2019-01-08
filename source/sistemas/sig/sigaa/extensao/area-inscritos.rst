@@ -1,3 +1,5 @@
+.. _Acesso à Área de Inscritos em Cursos e Eventos:
+
 Acesso à Área de Inscritos em Cursos e Eventos
 ----------------------------------------------
 

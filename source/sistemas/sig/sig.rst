@@ -47,3 +47,6 @@ Portal do Egresso
 .. |prancheta| image:: /_static/img/prancheta.png
 .. |usuario| image:: /_static/img/usuario.png
 .. |usuario2| image:: /_static/img/usuario2.png
+
+.. |pergaminho_gbg| image:: /_static/img/pergaminho-gbg.png
+.. |fita_gbg| image:: /_static/img/fita-gbg.png
