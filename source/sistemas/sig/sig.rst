@@ -18,6 +18,7 @@ Módulo Extensão
 .. include:: ./sigaa/extensao/gerenciamento-inscricoes.rst
 .. include:: ./sigaa/extensao/area-inscritos.rst
 .. include:: ./sigaa/extensao/gerenciamento-inscritos.rst
+.. include:: ./sigaa/extensao/gerenciamento-participantes.rst
 
 
 Portal do Egresso
@@ -45,3 +46,4 @@ Portal do Egresso
 .. |expandir| image:: /_static/img/expandir.png
 .. |prancheta| image:: /_static/img/prancheta.png
 .. |usuario| image:: /_static/img/usuario.png
+.. |usuario2| image:: /_static/img/usuario2.png

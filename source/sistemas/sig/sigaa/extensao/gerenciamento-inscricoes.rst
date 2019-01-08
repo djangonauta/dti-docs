@@ -28,7 +28,7 @@ o usuário clica no botão *Abrir Período de Inscrição*:
 
 .. image:: /_static/img/extensao/gerenciamento/inscricoes/periodo-inscricao-form2.png
 
-Após o período de inscrição ser aberto, interessados podem se inscrever na atividade.
+Após o período de inscrição ser aberto, interessados podem se inscrever na atividade:
 
 .. image:: /_static/img/extensao/gerenciamento/inscricoes/inscricao-aberta.png
 
