@@ -19,6 +19,7 @@ Módulo Extensão
 .. include:: ./sigaa/extensao/area-inscritos.rst
 .. include:: ./sigaa/extensao/gerenciamento-inscritos.rst
 .. include:: ./sigaa/extensao/gerenciamento-participantes.rst
+.. include:: ./sigaa/extensao/relatorios.rst
 
 
 Portal do Egresso
@@ -50,3 +51,5 @@ Portal do Egresso
 
 .. |pergaminho_gbg| image:: /_static/img/pergaminho-gbg.png
 .. |fita_gbg| image:: /_static/img/fita-gbg.png
+
+.. |relatorio_final| image:: /_static/img/relatorio-final.png
