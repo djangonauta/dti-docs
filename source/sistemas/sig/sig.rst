@@ -20,6 +20,7 @@ Módulo Extensão
 .. include:: ./sigaa/extensao/gerenciamento-inscritos.rst
 .. include:: ./sigaa/extensao/gerenciamento-participantes.rst
 .. include:: ./sigaa/extensao/relatorios.rst
+.. include:: ./sigaa/extensao/avaliacao-relatorio-chefia.rst
 
 
 Portal do Egresso

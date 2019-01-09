@@ -9,6 +9,8 @@ coordenador e em seguida pelo presidente do comitê.
     O relatorio final só será disponibilizado para avaliação pelo presidente do comitê de extensão depois que
     o mesmo tenha sido avaliado **primeiramente** pela chefia imediata.
 
+.. _Relatórios de Ações de Extensão:
+
 Para acessar o formulário de envio de relatório final, o coordenador **Docente**, após logar no SIGAA e acessar
 o módulo Portal do Docente, deve primeiramente clicar no submenu *Extensão* → *Relatórios* → *Relatórios de Ações de Extensão*:
 
@@ -56,8 +58,8 @@ Para submeter o relatório para avaliação, o coordenador deverá clicar no bot
 .. note::
     É possível salvar o relatório para enviá-lo posteriormente clicando no botão *Salvar (Rascunho)*.
 
-Após o relatório ser enviado, o coordenador pode verificar a situação do relatório acessando seus relatórios
-de ação de extensão (descrito anteriormente).
+Após o relatório ser enviado, o coordenador pode verificar a situação do mesmo acessando a página
+`Relatórios de Ações de Extensão`_.
 
 
 .. raw:: latex
