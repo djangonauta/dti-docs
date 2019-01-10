@@ -18,13 +18,17 @@ clicar no botão |seta_direita| *Analisar Relatório* para acessar o formulário
 
 .. image:: /_static/img/extensao/relatorios/validacao/chefia/analisar-relatorio.png
 
-o formulário de avaliação de relatório final consiste em um campo justificativa (opcional) e um campo parecer
+O formulário de avaliação de relatório final consiste em um campo justificativa (opcional) e um campo parecer
 contendo as opções *APROVAR*, *APROVAR COM RECOMENDAÇÃO* e *NÃO APROVAR*:
 
 .. image:: /_static/img/extensao/relatorios/validacao/chefia/confirmar-validacao.png
 
 .. warning::
-    O campo **justificativa** passa a ser requerido quando o parecer não for a opção *APROVAR*.
+    O campo **justificativa** passa a ser requerido quando o campo parecer não for a opção *APROVAR*.
+
+O coordenador da ação pode verificar a situação dos seus relátorios a partir da sua `lista de relatórios de extensão`_:
+
+.. image:: /_static/img/extensao/relatorios/validacao/chefia/verificar-relatorio.png
 
 .. raw:: latex
 

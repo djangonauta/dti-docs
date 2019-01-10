@@ -21,6 +21,7 @@ Módulo Extensão
 .. include:: ./sigaa/extensao/gerenciamento-participantes.rst
 .. include:: ./sigaa/extensao/relatorios.rst
 .. include:: ./sigaa/extensao/avaliacao-relatorio-chefia.rst
+.. include:: ./sigaa/extensao/avaliacao-relatorio-presidente.rst
 
 
 Portal do Egresso
@@ -54,3 +55,5 @@ Portal do Egresso
 .. |fita_gbg| image:: /_static/img/fita-gbg.png
 
 .. |relatorio_final| image:: /_static/img/relatorio-final.png
+.. |visualizacao| image:: /_static/img/visualizacao.png
+.. |visualizacao_gbg| image:: /_static/img/visualizacao-gbg.png

@@ -21,6 +21,8 @@ clicar no link *Relatórios de Ação de Extensão* da seção *Relatórios* da 
 
 .. image:: /_static/img/extensao/relatorios/relatorio-link.png
 
+.. _lista de relatórios de extensão:
+
 O sistema carrega uma lista de relatórios de ações coordenadas pelo usuário atual. Para acessar o formulário
 de cadastro de relatório final o coordenador deverá clicar no botão |relatorio_final| *Cadastrar Relatório Final*:
 
@@ -57,10 +59,6 @@ Para submeter o relatório para avaliação, o coordenador deverá clicar no bot
 
 .. note::
     É possível salvar o relatório para enviá-lo posteriormente clicando no botão *Salvar (Rascunho)*.
-
-Após o relatório ser enviado, o coordenador pode verificar a situação do mesmo acessando a página
-`Relatórios de Ações de Extensão`_.
-
 
 .. raw:: latex
 
