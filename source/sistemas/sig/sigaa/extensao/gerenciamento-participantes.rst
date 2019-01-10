@@ -20,11 +20,22 @@ o usuário clica no botão |usuario| *Gerenciar Participantes*, da ação que se
 
 .. image:: /_static/img/extensao/gerenciamento/participantes/gerenciar-participantes.png
 
-A página de gerenciamento de participantes permite adicionar um novo participante sem necessidade de inscrição, ou emitir certificados e
+O sistema carrega a página de gerenciamento de participantes. É possível permitir que o participante externo
+possa emitir declarações e certificados alterando a caixa de seleção das colunas Declaração e Certificado,
+respectivamente. Para alterar o tipo da participação do participante, entre outros dados, o coordenador deverá passar o cursos do mouse
+sobre o ícone |submenu| e em seguida escolher a opção *Alterar Participante*:
+
+.. image:: /_static/img/extensao/gerenciamento/participantes/alterar-participantes.png
+
+Apóp fazer as alterações que deseja, o coordenador deverá clicar no botão *Alterar Participante*:
+
+.. image:: /_static/img/extensao/gerenciamento/participantes/alterar-participantes-form.png
+
+A página de gerenciamento de participantes também permite adicionar um novo participante sem necessidade de inscrição, ou emitir certificados e
 declarações dos participantes inscritos. Para adicionar um novo participante, o usuário clica no botão |usuario|
 *Adicionar Novo Participante*, conforme imagem a seguir:
 
-.. image:: /_static/img/extensao/gerenciamento/participantes/adicionar-participante.png
+.. image:: /_static/img/extensao/gerenciamento/participantes/adicionar-novo-participante.png
 
 .. note::
     O coordenador da ação pode gerar declarações e certificados dos participantes a qualquer momento, clicando

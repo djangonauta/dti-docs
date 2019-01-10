@@ -57,3 +57,4 @@ Portal do Egresso
 .. |relatorio_final| image:: /_static/img/relatorio-final.png
 .. |visualizacao| image:: /_static/img/visualizacao.png
 .. |visualizacao_gbg| image:: /_static/img/visualizacao-gbg.png
+.. |submenu| image:: /_static/img/submenu.png
