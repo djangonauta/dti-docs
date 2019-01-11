@@ -1,7 +1,7 @@
 Documentação da Diretoria de Tecnologia de Informação - IFPA
 ============================================================
 
-Bem-vindo à documentação oficial da DTI-IFPA. Esta documentação no formato PDF pode ser feito :download:`clicando aqui <../build/latex/documentacao.pdf>`.
+Bem-vindo à documentação oficial da DTI-IFPA. Esta documentação no formato PDF pode ser feito :download:`clicando aqui <../build/latex/manuais.pdf>`.
 
 .. toctree::
     :caption: Sumário

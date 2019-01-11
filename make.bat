@@ -9,7 +9,7 @@ if "%SPHINXBUILD%" == "" (
 )
 set SOURCEDIR=source
 set BUILDDIR=build
-set SPHINXPROJ=PortaldoEgresso
+set SPHINXPROJ=ManuaisDTI-IFPA
 
 if "%1" == "" goto help
 
