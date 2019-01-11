@@ -4,18 +4,18 @@ Distribuição de propostas para avaliadores extensionistas
 O presidente do comitê de extensão é responsável por distribuir propostas de ações para análise de avaliadores
 extensionistas.
 
-Após logar no SIGAA, o usuário clica no link *Distribuir* da seção *Avaliações* na aba *Gestão de Extensão* conforme
+Após logar no SIGAA, o presidente do comitê clica no link **Distribuir** da seção **Avaliações** na aba **Gestão de Extensão** conforme
 imagem a seguir:
 
 .. image:: /_static/img/extensao/distribuicao/distribuir-avaliacao.png
 
 O sistema carrega uma lista de distribuições cadastradas. O usuário clica no botão
-"Selecionar Projetos" na distribuição escolhida para dar continuidade no processo de avaliação:
+**Selecionar Projetos** na distribuição escolhida para avançar para próxima tela:
 
 .. image:: /_static/img/extensao/distribuicao/selecionar-projetos.png
 
 Em seguida o sistema carrega as propostas de ação de extensão relacionadas com a distribuição selecionada anteriormente.
-O usuário clica no botão *Distribuir* para dar continuidade no processo de avaliação:
+O usuário clica no botão **Distribuir** para avançar para próxima tela:
 
 .. image:: /_static/img/extensao/distribuicao/distribuir-propostas.png
 
@@ -23,9 +23,10 @@ O usuário clica no botão *Distribuir* para dar continuidade no processo de ava
     Se a distribuição de avaliação foi vinculada a um edital, apenas propostas vinculadas aquele edital serão listadas
     nesta tela.
 
-O sistema carrega a tela com todos os avaliadores adhocs disponíveis para avaliação daquela proposta de extensão selecionada.
-O usuário clica no botão *Incluir Avaliador* para adicionar o avaliador selecionado na listagem da seção *Lista das Avaliações*.
-Após selecionar os avaliadores desejados, o usuário clica no botão *Confirmar Distribuição*.
+O sistema carrega a tela com todos os avaliadores *adhocs* disponíveis para avaliação daquela proposta de extensão selecionada.
+O usuário clica no botão |adicao| **Incluir Avaliador** para adicionar o avaliador selecionado na listagem da seção **Lista das Avaliações**.
+Caso queira removr um avaliador dessa listagem, o usuario deverá clicar no botão |lixeira|.
+Após selecionar os avaliadores desejados, o usuário clica no botão **Confirmar Distribuição**.
 
 .. image:: /_static/img/extensao/distribuicao/distribuir-projeto1.png
 

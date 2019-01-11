@@ -2,22 +2,22 @@ Avaliação final de propostas de ação de extensão
 ------------------------------------------------
 
 A avaliação final de propostas é feita pelo Presidente do Comitê de Extensão. Após logar no SIGAA e acessar o módulo
-extensão, o usuário clica no link *Avaliação Final de Propostas (Presidente do Comitê)* da seção *Avaliar Propostas de Extensão*
-na aba *Informações Gerais*, conforme imagem a seguir:
+extensão, o usuário clica no link **Avaliação Final de Propostas (Presidente do Comitê)** da seção **Avaliar Propostas de Extensão**
+na aba **Informações Gerais**, conforme imagem a seguir:
 
 .. image:: /_static/img/extensao/avaliacao-final/avaliacao-final.png
 
 .. only:: html
 
-    O sistema carrega uma página de busca de ações de extensão. O usuário preenche os dados da seção *Buscar Ações de Extensão*
-    e clica no botão *Buscar* para carregar ações pendentes de avaliação final pelo Presidente do Comitê. O usuário
-    então clica no botão |seta_direita| *Avaliar Ação de Extensão*:
+    O sistema carrega uma página de busca de ações de extensão. O usuário preenche os dados da seção **Buscar Ações de Extensão**
+    e clica no botão **Buscar** para carregar ações pendentes de avaliação final pelo Presidente do Comitê. O usuário
+    então clica no botão |seta_direita| **Avaliar Ação de Extensão**:
 
 .. only:: latex
 
-    O sistema carrega uma página de busca de ações de extensão. O usuário preenche os dados da seção *Buscar Ações de Extensão*
-    e clica no botão *Buscar* para carregar ações pendentes de avaliação final pelo Presidente do Comitê. O usuário
-    então clica no botão |seta_direita_pdf| *Avaliar Ação de Extensão*:
+    O sistema carrega uma página de busca de ações de extensão. O usuário preenche os dados da seção **Buscar Ações de Extensão**
+    e clica no botão **Buscar** para carregar ações pendentes de avaliação final pelo Presidente do Comitê. O usuário
+    então clica no botão |seta_direita_pdf| **Avaliar Ação de Extensão**:
 
 .. image:: /_static/img/extensao/avaliacao-final/avaliar-acao.png
 

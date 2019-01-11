@@ -37,24 +37,21 @@ Portal do Egresso
 
 .. |seta_direita| image:: /_static/img/seta-direita.png
 .. |seta_direita_pdf| image:: /_static/img/seta-direita-pdf.png
-
 .. |asterisco| image:: /_static/img/asterisco.png
 .. |campo_data| image:: /_static/img/campo-data.png
 .. |ajuda| image:: /_static/img/ajuda.png
-
 .. |asterisco_pdf| image:: /_static/img/asterisco-pdf.png
 .. |campo_data_pdf| image:: /_static/img/campo-data-pdf.png
 .. |ajuda_pdf| image:: /_static/img/ajuda-pdf.png
-
 .. |expandir| image:: /_static/img/expandir.png
 .. |prancheta| image:: /_static/img/prancheta.png
 .. |usuario| image:: /_static/img/usuario.png
 .. |usuario2| image:: /_static/img/usuario2.png
-
 .. |pergaminho_gbg| image:: /_static/img/pergaminho-gbg.png
 .. |fita_gbg| image:: /_static/img/fita-gbg.png
-
 .. |relatorio_final| image:: /_static/img/relatorio-final.png
 .. |visualizacao| image:: /_static/img/visualizacao.png
 .. |visualizacao_gbg| image:: /_static/img/visualizacao-gbg.png
 .. |submenu| image:: /_static/img/submenu.png
+.. |adicao| image:: /_static/img/adicao.png
+.. |lixeira| image:: /_static/img/lixeira.png

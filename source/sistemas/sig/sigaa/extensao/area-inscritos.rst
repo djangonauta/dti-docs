@@ -24,7 +24,7 @@ o usuário clica no botão *Cadastrar*:
     O usuário deverá confirmar sua inscrição seguindo as instruções do email que é enviado automaticamente pelo
     sistema após o cadastro.
 
-Após fazer login na área ṕublica, o usuário deverá acessar o menu lateral *Cursos e Eventos Abertos*:
+Após fazer login na área pública, o usuário deverá acessar o menu lateral *Cursos e Eventos Abertos*:
 
 .. image:: /_static/img/extensao/gerenciamento/inscritos/cursos-eventos-abertos.png
 
