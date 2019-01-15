@@ -77,7 +77,7 @@ Para acessar a página de gerenciamento de membros, basta clicar no botão *Gere
 A página consiste em duas seções, uma contendo o formulário de inclusão de um novo Membro para um determinado CGIPES
 e outra, abaixo, contendo a listagem de membros para aquele CGIPES:
 
-.. image:: /_static/img/portal-egressos/cgipes/membros_form.png
+.. image:: /_static/img/portal-egressos/cgipes/membros_form2.png
 
 .. _cadastro_novo_membro_cgipes:
 
