@@ -42,6 +42,8 @@ Manuais dos Módulos do SIG
 
     * SIPAC - Sistema Integrado de Patrimônio, Administração e Contratos
 
+        `Curso SIPAC Processo Eletrônico <https://drive.google.com/file/d/1Ks41UV4ZIzLqexz1oW4UTX8TKlUhCh2W/view?usp=sharing>`_
+
         :download:`Almoxarifado - Manual do Requisitante <../build/html/_static/manuais/sipac/Manual-requisitante-material-portal.pdf>`
 
         :download:`Almoxarifado - Manual do Gestor <../build/html/_static/manuais/sipac/Manual-gestor-almoxarifado-principais-funcionalidades.pdf>`

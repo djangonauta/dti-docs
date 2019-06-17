@@ -7,6 +7,7 @@ verify_ssl = true
 flake8 = "*"
 autopep8 = "*"
 flake8-docstrings = "*"
+doc8 = "*"
 
 [packages]
 sphinx = "==1.7.9"
