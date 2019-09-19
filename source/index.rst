@@ -26,9 +26,9 @@ Manuais dos Módulos do SIG
 
         :download:`Assistência Estudantil - Manual do Coordenador <../build/html/_static/manuais/sigaa/SIGAA.SAE.Manual.CoordenadorV2.pdf>`
 
-        :download:`Técnico - Manual da Diretoria de Ensino <../build/html/_static/manuais/sigaa/SIGAA.NEE.Manual.da.DE.PROEN.pdf>`
+        :download:`Técnico - Manual da Diretoria de Ensino <../build/html/_static/manuais/sigaa/SIGAA.Modulo.Tecnico.Formacao.Manual.da.DE.pdf>`
 
-        :download:`Formação Complementar - Manual da Diretoria de Ensino <../build/html/_static/manuais/sigaa/SIGAA.NEE.Manual.da.DE.PROEN.pdf>`
+        :download:`Formação Complementar - Manual da Diretoria de Ensino <../build/html/_static/manuais/sigaa/SIGAA.Modulo.Tecnico.Formacao.Manual.da.DE.pdf>`
 
         :download:`Graduação - Manual da Diretoria de Ensino <../build/html/_static/manuais/sigaa/SIGAA.Modulo.Graduacao.Manual.da.DE.pdf>`
 
