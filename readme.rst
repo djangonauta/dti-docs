@@ -32,6 +32,6 @@ A partir do diretório do projeto, execute::
 Publicar a documentação
 ^^^^^^^^^^^^^^^^^^^^^^^
 
-Após logar em ``192.168.0.27`` a partir do diretório ``/home/administrador/manuais-temp``, execute::
+A partir do diretório ``administrador@192.168.0.27:/home/administrador/manuais-temp``, execute::
 
     sudo cp -r . /var/www/dti.ifpa.edu.br/htdocs/manuais/
