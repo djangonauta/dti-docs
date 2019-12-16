@@ -42,7 +42,7 @@ Manuais dos Módulos do SIG
 
     * SIPAC - Sistema Integrado de Patrimônio, Administração e Contratos
 
-        `Curso SIPAC Processo Eletrônico <https://drive.google.com/file/d/1Ks41UV4ZIzLqexz1oW4UTX8TKlUhCh2W/view?usp=sharing>`_
+        |sipac_processo_eletronico|
 
         :download:`Almoxarifado - Manual do Requisitante <../build/html/_static/manuais/sipac/Manual-requisitante-material-portal.pdf>`
 
@@ -209,3 +209,7 @@ Manuais dos Módulos do SIG
         `Instalação ZimbraDesktop <https://dti.ifpa.edu.br/manuais/_downloads/SRI.Instalacao.ZimbraDesktop.pdf>`_
 
         `Eduroam - Cliente Android <https://dti.ifpa.edu.br/manuais/_downloads/SRI.cliente.eduroam.android.pdf>`_
+
+.. |sipac_processo_eletronico| raw:: html
+
+    <a href="https://drive.google.com/file/d/1Ks41UV4ZIzLqexz1oW4UTX8TKlUhCh2W/view?usp=sharing" target="_blank">Curso SIPAC Processo Eletrônico</a>
