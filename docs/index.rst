@@ -98,8 +98,6 @@ Manuais dos Módulos do SIG
 
         :download:`Backup Email institucional <../build/html/_static/manuais/sri/SRI.Backup.Email.pdf>`
 
-        :download:`Sincronizar Email Outlook <../build/html/_static/manuais/sri/SRI.sincronizar.email.outlook.pdf>`
-
         :download:`Adicionar usuário ao grupo de email <../build/html/_static/manuais/sri/SRI.Adicionar.usuario.grupo.email.pdf>`
 
         :download:`Formulário para conta de rede <../build/html/_static/manuais/sri/SRI.Formulario.Rede.IFPA.pdf>`
@@ -195,8 +193,6 @@ Manuais dos Módulos do SIG
         `Acesso pasta compartilhada <https://dti.ifpa.edu.br/manuais/_downloads/SRI.pasta.compartilhada.pdf>`_
 
         `Backup Email institucional <https://dti.ifpa.edu.br/manuais/_downloads/SRI.Backup.Email.pdf>`_
-
-        `Sincronizar Email Outlook <https://dti.ifpa.edu.br/manuais/_downloads/SRI.sincronizar.email.outlook.pdf>`_
 
         `Adicionar usuário ao grupo de email <https://dti.ifpa.edu.br/manuais/_downloads/SRI.Adicionar.usuario.grupo.email.pdf>`_
 
