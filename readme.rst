@@ -26,12 +26,12 @@ Subir a documentação para o servidor em produção
 
 A partir do diretório do projeto, execute::
 
-    scp -r ./build/html/ administrador@192.168.0.27:/home/administrador/manuais-temp
+    scp -r ./build/html/ administrador@192.168.0.27:/home/administrador/manuais-deploy
 
 
 Publicar a documentação
 ^^^^^^^^^^^^^^^^^^^^^^^
 
-A partir do diretório ``administrador@192.168.0.27:/home/administrador/manuais-temp``, execute::
+A partir do diretório ``administrador@192.168.0.27:/home/administrador/manuais-deploy``, execute::
 
     sudo cp -r . /var/www/dti.ifpa.edu.br/htdocs/manuais/
