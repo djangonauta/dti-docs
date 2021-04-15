@@ -114,6 +114,8 @@ Manuais dos Módulos do SIG
 
         :download:`Eduroam - Cliente Android <../build/html/_static/manuais/sri/SRI.cliente.eduroam.android.pdf>`
 
+        :download:`Tutorial de Configuração do Gmail do IFPa para uso no Cliente Outlook Testado no Outlook 2013 <../build/html/_static/manuais/sri/Tutorial.de.Configuração.do.Gmail.do.IFPa.para.uso.no.Cliente.Outlook.Testado.no.Outlook.2013.pdf>`
+
 .. only:: latex
 
     * SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas
@@ -209,6 +211,8 @@ Manuais dos Módulos do SIG
         `Instalação ZimbraDesktop <https://dti.ifpa.edu.br/manuais/_downloads/SRI.Instalacao.ZimbraDesktop.pdf>`_
 
         `Eduroam - Cliente Android <https://dti.ifpa.edu.br/manuais/_downloads/SRI.cliente.eduroam.android.pdf>`_
+
+        `Tutorial de Configuração do Gmail do IFPa para uso no Cliente Outlook Testado no Outlook 2013.pdf <https://dti.ifpa.edu.br/manuais/_downloads/Tutorial.de.Configuração.do.Gmail.do.IFPa.para.uso.no.Cliente.Outlook.Testado.no.Outlook.2013.pdf>`_
 
 .. |sipac_processo_eletronico| raw:: html
 
