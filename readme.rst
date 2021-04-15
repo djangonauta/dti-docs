@@ -12,7 +12,7 @@ A distribuição da documentação segue 3 passos:
 
 
 Gerar a documentação
-^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~
 
 A partir do diretório do projeto, execute::
 
@@ -21,16 +21,20 @@ A partir do diretório do projeto, execute::
 
 Esse comando constrói a documentação e salva em ``./build/html``
 
+
 Subir a documentação para o servidor em produção
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A partir do diretório do projeto, execute::
 
     scp -r ./build/html/ administrador@192.168.0.27:/home/administrador/manuais-deploy
 
+.. warning::
+    O diretório de destino (no exemplo, ``manuais-deploy``) precisa estar vazio.
+
 
 Publicar a documentação
-^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~
 
 A partir do diretório ``administrador@192.168.0.27:/home/administrador/manuais-deploy``, execute::
 
