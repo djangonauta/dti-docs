@@ -4,15 +4,17 @@ url = "https://pypi.org/simple"
 verify_ssl = true
 
 [dev-packages]
-flake8 = "*"
-autopep8 = "*"
-flake8-docstrings = "*"
-doc8 = "*"
 
 [packages]
 sphinx = "==1.7.9"
 sphinx-autobuild = "*"
 sphinx-rtd-theme = "*"
+invoke = "*"
+rstcheck = "*"
+sphinx-hoverxref = "*"
 
 [requires]
-python_version = "3.7"
+python_version = "3.9"
+
+[pipenv]
+allow_prereleases = true

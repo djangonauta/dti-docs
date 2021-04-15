@@ -4,8 +4,8 @@
 # You can set these variables from the command line.
 SPHINXOPTS    =
 SPHINXBUILD   = sphinx-build
-SPHINXPROJ    = PortaldoEgresso
-SOURCEDIR     = source
+SPHINXPROJ    = Documentação DTI
+SOURCEDIR     = docs
 BUILDDIR      = build
 
 # Put it first so that "make" without argument is like "make help".
