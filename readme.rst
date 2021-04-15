@@ -16,7 +16,7 @@ Gerar a documentação
 
 A partir do diretório do projeto, execute::
 
-    ./manage.py --distribuir
+    invoke
 
 
 Esse comando constrói a documentação e salva em ``./build/html``
