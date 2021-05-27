@@ -20,7 +20,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Manuais DTI-IFPA'
-copyright = '2018, Diretoria de Tecnologia da Informação, IFPA'
+copyright = '2021, Diretoria de Tecnologia da Informação, IFPA'
 author = 'Diretoria de Tecnologia da Informação, IFPA'
 
 # The short X.Y version

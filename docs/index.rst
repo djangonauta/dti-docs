@@ -13,6 +13,71 @@ Bem-vindo à documentação oficial da DTI-IFPA. Esta documentação no formato 
    sistemas/sig/sig.rst
 
 
+Outros Manuais
+--------------
+
+.. only:: html
+
+    * SRI
+
+        :download:`VPN - Windows - Manual de Instalação <../build/html/_static/manuais/sri/SRI.VPN.Manual.de.Instalacao.pdf>`
+
+        :download:`Filesender - Manual de utilização <../build/html/_static/manuais/sri/SRI.RNP.Filesender.pdf>`
+
+        :download:`Acesso pasta compartilhada <../build/html/_static/manuais/sri/SRI.pasta.compartilhada.pdf>`
+
+        :download:`Backup Email institucional <../build/html/_static/manuais/sri/SRI.Backup.Email.pdf>`
+
+        :download:`Adicionar usuário ao grupo de email <../build/html/_static/manuais/sri/SRI.Adicionar.usuario.grupo.email.pdf>`
+
+        :download:`Formulário para conta de rede <../build/html/_static/manuais/sri/SRI.Formulario.Rede.IFPA.pdf>`
+
+        :download:`Geração do PIN servico reprografia <../build/html/_static/manuais/sri/SRI.geracao.PIN.pdf>`
+
+        :download:`Acesso Webconf <../build/html/_static/manuais/sri/SRI.Webconf.pdf>`
+
+        :download:`Adicionar IFPA na lista endereçamento confiáveis Hotmail <../build/html/_static/manuais/sri/SRI.Adicionar.IFPA.Hotmail.pdf>`
+
+        :download:`Instalação ZimbraDesktop <../build/html/_static/manuais/sri/SRI.Instalacao.ZimbraDesktop.pdf>`
+
+        :download:`Eduroam - Cliente Android <../build/html/_static/manuais/sri/SRI.cliente.eduroam.android.pdf>`
+
+        :download:`Tutorial de Configuração do Gmail do IFPa para uso no Cliente Outlook Testado no Outlook 2013 <../build/html/_static/manuais/sri/Tutorial.de.Configuração.do.Gmail.do.IFPa.para.uso.no.Cliente.Outlook.Testado.no.Outlook.2013.pdf>`
+
+        :download:`Manual Acesso Federado Periodicos Capes <../build/html/_static/manuais/sri/Manual.Acesso.Federado.Periodicos.Capes.pdf>`
+
+
+.. only:: latex
+
+    * SRI
+
+        `VPN - Windows - Manual de Instalação <https://dti.ifpa.edu.br/manuais/_downloads/SRI.VPN.Manual.de.Instalacao.pdf>`_
+
+        `Filesender - Manual de utilização <https://dti.ifpa.edu.br/manuais/_downloads/SRI.RNP.Filesender.pdf>`_
+
+        `Acesso pasta compartilhada <https://dti.ifpa.edu.br/manuais/_downloads/SRI.pasta.compartilhada.pdf>`_
+
+        `Backup Email institucional <https://dti.ifpa.edu.br/manuais/_downloads/SRI.Backup.Email.pdf>`_
+
+        `Adicionar usuário ao grupo de email <https://dti.ifpa.edu.br/manuais/_downloads/SRI.Adicionar.usuario.grupo.email.pdf>`_
+
+        `Formulário para conta de rede <https://dti.ifpa.edu.br/manuais/_downloads/SRI.Formulario.Rede.IFPA.pdf>`_
+
+        `Geração do PIN servico reprografia <https://dti.ifpa.edu.br/manuais/_downloads/SRI.geracao.PIN.pdf>`_
+
+        `Acesso Webconf <https://dti.ifpa.edu.br/manuais/_downloads/SRI.Webconf.pdf>`_
+
+        `Adicionar IFPA na lista endereçamento confiáveis Hotmail <https://dti.ifpa.edu.br/manuais/_downloads/SRI.Adicionar.IFPA.Hotmail.pdf>`_
+
+        `Instalação ZimbraDesktop <https://dti.ifpa.edu.br/manuais/_downloads/SRI.Instalacao.ZimbraDesktop.pdf>`_
+
+        `Eduroam - Cliente Android <https://dti.ifpa.edu.br/manuais/_downloads/SRI.cliente.eduroam.android.pdf>`_
+
+        `Tutorial de Configuração do Gmail do IFPa para uso no Cliente Outlook Testado no Outlook 2013.pdf <https://dti.ifpa.edu.br/manuais/_downloads/Tutorial.de.Configuração.do.Gmail.do.IFPa.para.uso.no.Cliente.Outlook.Testado.no.Outlook.2013.pdf>`_
+
+        `Manual Acesso Federado Periodicos Capes <https://dti.ifpa.edu.br/manuais/_downloads/Manual.Acesso.Federado.Periodicos.Capes.pdf>`_
+
+
 Manuais dos Módulos do SIG
 --------------------------
 
@@ -88,31 +153,6 @@ Manuais dos Módulos do SIG
 
         :download:`Manual do Gestor de Documentos <../build/html/_static/manuais/siged/SIGED.Manual.pdf>`
 
-    * SRI
-
-        :download:`VPN - Windows - Manual de Instalação <../build/html/_static/manuais/sri/SRI.VPN.Manual.de.Instalacao.pdf>`
-
-        :download:`Filesender - Manual de utilização <../build/html/_static/manuais/sri/SRI.RNP.Filesender.pdf>`
-
-        :download:`Acesso pasta compartilhada <../build/html/_static/manuais/sri/SRI.pasta.compartilhada.pdf>`
-
-        :download:`Backup Email institucional <../build/html/_static/manuais/sri/SRI.Backup.Email.pdf>`
-
-        :download:`Adicionar usuário ao grupo de email <../build/html/_static/manuais/sri/SRI.Adicionar.usuario.grupo.email.pdf>`
-
-        :download:`Formulário para conta de rede <../build/html/_static/manuais/sri/SRI.Formulario.Rede.IFPA.pdf>`
-
-        :download:`Geração do PIN servico reprografia <../build/html/_static/manuais/sri/SRI.geracao.PIN.pdf>`
-
-        :download:`Acesso Webconf <../build/html/_static/manuais/sri/SRI.Webconf.pdf>`
-
-        :download:`Adicionar IFPA na lista endereçamento confiáveis Hotmail <../build/html/_static/manuais/sri/SRI.Adicionar.IFPA.Hotmail.pdf>`
-
-        :download:`Instalação ZimbraDesktop <../build/html/_static/manuais/sri/SRI.Instalacao.ZimbraDesktop.pdf>`
-
-        :download:`Eduroam - Cliente Android <../build/html/_static/manuais/sri/SRI.cliente.eduroam.android.pdf>`
-
-        :download:`Tutorial de Configuração do Gmail do IFPa para uso no Cliente Outlook Testado no Outlook 2013 <../build/html/_static/manuais/sri/Tutorial.de.Configuração.do.Gmail.do.IFPa.para.uso.no.Cliente.Outlook.Testado.no.Outlook.2013.pdf>`
 
 .. only:: latex
 
@@ -184,31 +224,6 @@ Manuais dos Módulos do SIG
 
         `Manual do Gestor de Documentos <https://dti.ifpa.edu.br/manuais/_downloads/SIGED.Manual.pdf>`_
 
-    * SRI
-
-        `VPN - Windows - Manual de Instalação <https://dti.ifpa.edu.br/manuais/_downloads/SRI.VPN.Manual.de.Instalacao.pdf>`_
-
-        `Filesender - Manual de utilização <https://dti.ifpa.edu.br/manuais/_downloads/SRI.RNP.Filesender.pdf>`_
-
-        `Acesso pasta compartilhada <https://dti.ifpa.edu.br/manuais/_downloads/SRI.pasta.compartilhada.pdf>`_
-
-        `Backup Email institucional <https://dti.ifpa.edu.br/manuais/_downloads/SRI.Backup.Email.pdf>`_
-
-        `Adicionar usuário ao grupo de email <https://dti.ifpa.edu.br/manuais/_downloads/SRI.Adicionar.usuario.grupo.email.pdf>`_
-
-        `Formulário para conta de rede <https://dti.ifpa.edu.br/manuais/_downloads/SRI.Formulario.Rede.IFPA.pdf>`_
-
-        `Geração do PIN servico reprografia <https://dti.ifpa.edu.br/manuais/_downloads/SRI.geracao.PIN.pdf>`_
-
-        `Acesso Webconf <https://dti.ifpa.edu.br/manuais/_downloads/SRI.Webconf.pdf>`_
-
-        `Adicionar IFPA na lista endereçamento confiáveis Hotmail <https://dti.ifpa.edu.br/manuais/_downloads/SRI.Adicionar.IFPA.Hotmail.pdf>`_
-
-        `Instalação ZimbraDesktop <https://dti.ifpa.edu.br/manuais/_downloads/SRI.Instalacao.ZimbraDesktop.pdf>`_
-
-        `Eduroam - Cliente Android <https://dti.ifpa.edu.br/manuais/_downloads/SRI.cliente.eduroam.android.pdf>`_
-
-        `Tutorial de Configuração do Gmail do IFPa para uso no Cliente Outlook Testado no Outlook 2013.pdf <https://dti.ifpa.edu.br/manuais/_downloads/Tutorial.de.Configuração.do.Gmail.do.IFPa.para.uso.no.Cliente.Outlook.Testado.no.Outlook.2013.pdf>`_
 
 .. |sipac_processo_eletronico| raw:: html
 
