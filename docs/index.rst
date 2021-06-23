@@ -103,6 +103,10 @@ Manuais dos Módulos do SIG
 
         :download:`NEE - Manual da Diretoria de Ensino e PROEN <../build/html/_static/manuais/sigaa/SIGAA.NEE.Manual.da.DE.PROEN.pdf>`
 
+        :download:`Pesquisa - Manual dos Docentes, TAEs e Discentes <../build/html/_static/manuais/sigaa/SIGAA.Roteiro.Modulo.Pesquisa.2021.Servidores.E.Discentes.pdf>`
+
+        :download:`Pesquisa - Manual das Diretorias de Pesquisa e PROPPG <../build/html/_static/manuais/sigaa/SIGAA.Roteiro.Modulo.Pesquisa.2021.Proppg.Dir.Pesq.pdf>`
+
         :download:`Extensão - Gerenciamento de Participantes de Cursos <../build/html/_static/manuais/sigaa/SIGAA.Modulo.Extensao.Gerenciamento.de.Participantes.de.Cursos.pdf>`
 
     * SIPAC - Sistema Integrado de Patrimônio, Administração e Contratos
@@ -175,6 +179,10 @@ Manuais dos Módulos do SIG
         `Extensão - Cadastro de Cursos <https://dti.ifpa.edu.br/manuais/_downloads/SIGAA.Modulo.Extensao.Cadastro.de.Cursos.pdf>`_
 
         `NEE - Manual da Diretoria de Ensino e PROEN <https://dti.ifpa.edu.br/manuais/_downloads/SIGAA.NEE.Manual.da.DE.PROEN.pdf>`_
+
+        `Pesquisa - Manual dos Docentes, TAEs e Discentes <https://dti.ifpa.edu.br/manuais/_downloads/SIGAA.Roteiro.Modulo.Pesquisa.2021.Servidores.E.Discentes.pdf>`_
+
+        `Pesquisa - Manual das Diretorias de Pesquisa e PROPPG <https://dti.ifpa.edu.br/manuais/_downloads/SIGAA.Roteiro.Modulo.Pesquisa.2021.Proppg.Dir.Pesq.pdf>`_
 
         `Extensão - Gerenciamento de Participantes de Cursos <https://dti.ifpa.edu.br/manuais/_downloads/SIGAA.Modulo.Extensao.Gerenciamento.de.Participantes.de.Cursos.pdf>`_
 
